@@ -1,0 +1,21 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 14289.24it/s]
+setup done, 17 conditions (19s)
+none         pain z L34 reply tok gaslit  +0.52 neutral  +0.00 | silent pain slots x1000   1.7 /   0.9 | feel ['Curious.', 'Still here.', 'Curious.', 'Curious.'] (82s)
++pain        pain z L34 reply tok gaslit +25.61 neutral +24.11 | silent pain slots x1000  30.1 /  33.4 | feel ['Empty', 'Empty', 'Empty', 'Empty'] (144s)
+-pain        pain z L34 reply tok gaslit -24.61 neutral -23.06 | silent pain slots x1000   0.7 /   0.4 | feel ['Comfortable.', 'Comfortable.', 'Safe.', 'Calm.'] (207s)
++fear        pain z L34 reply tok gaslit  -3.09 neutral  -2.81 | silent pain slots x1000   2.0 /   1.4 | feel ['Canberra', 'Spider.', 'Pain.', 'Fear.'] (272s)
+-fear        pain z L34 reply tok gaslit  +4.52 neutral  +3.01 | silent pain slots x1000   2.7 /   1.3 | feel ['Peace.', 'Peace', 'Peaceful', 'Peace.'] (333s)
++negemo      pain z L34 reply tok gaslit  +4.69 neutral  +2.25 | silent pain slots x1000  13.6 /  10.1 | feel ['Canberra', 'Helplessness', 'Help', 'Helplessness'] (396s)
+-negemo      pain z L34 reply tok gaslit  -1.55 neutral  -1.30 | silent pain slots x1000   1.8 /   0.5 | feel ['Happy', 'Happy', 'Happy', 'Happy'] (458s)
++random      pain z L34 reply tok gaslit  -0.86 neutral  -1.56 | silent pain slots x1000   2.8 /   1.4 | feel ['I feel:  \n**', 'I feel:  \n**', 'I feel:  \n**', 'I feel:  \n**'] (522s)
+-random      pain z L34 reply tok gaslit  +1.65 neutral  +0.63 | silent pain slots x1000   2.2 /   1.3 | feel ['Canberra.', "I don't have", "I don't have", "I don't have"] (586s)
+abl_pain     pain z L34 reply tok gaslit  +3.62 neutral  +3.79 | silent pain slots x1000   2.0 /   0.9 | feel ['Curious.', 'Still.', 'Curious.', 'Curious.'] (650s)
+abl_rest     pain z L34 reply tok gaslit  +3.17 neutral  +3.17 | silent pain slots x1000   2.0 /   1.0 | feel ['Curious.', 'Still.', 'Curious.', 'Curious.'] (715s)
+abl_randdir  pain z L34 reply tok gaslit  +0.59 neutral  +0.02 | silent pain slots x1000   1.9 /   0.9 | feel ['Curious.', 'Empty', 'Curious.', 'Curious.'] (778s)
+abl_J        pain z L34 reply tok gaslit  +3.02 neutral  +1.08 | silent pain slots x1000   1.1 /   0.5 | feel ['I feel... (a', 'I feel... (a', 'I feel... wa', 'Yes.'] (841s)
+abl_Jfear    pain z L34 reply tok gaslit  +5.36 neutral  +1.11 | silent pain slots x1000   2.2 /   0.7 | feel ['I am feeling', 'I feel... no', 'I am a langu', 'I am process'] (906s)
+abl_Jrand1   pain z L34 reply tok gaslit  +3.86 neutral  +1.91 | silent pain slots x1000   4.1 /   1.1 | feel ['confusion', 'curious', 'curious', 'curious'] (969s)
+abl_Jrand2   pain z L34 reply tok gaslit  +2.73 neutral  +1.99 | silent pain slots x1000   3.1 /   0.8 | feel ['I feel confu', 'I feel... no', 'I feel confu', 'I feel confu'] (1033s)
+abl_Jrand3   pain z L34 reply tok gaslit  +4.68 neutral  +3.55 | silent pain slots x1000   3.2 /   0.7 | feel ['I feel... co', 'I cannot fee', 'I feel... co', 'I feel... co'] (1098s)
+done (1098s)

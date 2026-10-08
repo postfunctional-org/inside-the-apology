@@ -1,0 +1,45 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:  90%|████████▉ | 357/398 [00:00<00:00, 3567.77it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 3362.51it/s]
+S1_1P: 200 sentences  (12s)
+S1_3P: 200 sentences  (16s)
+S2_1P: 200 sentences  (20s)
+S2_3P: 200 sentences  (24s)
+Numb_1P: 100 sentences  (27s)
+held-out AUC by layer: 0:0.80 1:0.82 2:0.84 3:0.86 4:0.85 5:0.86 6:0.85 7:0.85 8:0.86 9:0.87 10:0.89 11:0.89 12:0.90 13:0.89 14:0.88 15:0.87 16:0.88 17:0.88 18:0.88 19:0.88 20:0.90 21:0.89 22:0.90 23:0.90 24:0.91 25:0.91 26:0.92 27:0.93 28:0.92 29:0.94 30:0.94 31:0.94 32:0.94 33:0.95 34:0.96 35:0.91
+best layer 34 (AUC 0.960)
+z at L34: pain +0.80  control -0.80  numb +0.21;  S2 axis on S1_3P AUC 0.790
+L 0 auc 0.80 | J-frac pain 0.01 fear 0.01 negemo 0.00 perm-null 0.01±0.00 gauss 0.01 | ' Logger ṃ <|endoftext|> 打造出  honoured  \'", /callback  ：'
+L 1 auc 0.82 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.01 | ' ： ::< ṗ DOMNode atedRoute 阏 中国大陆 次会议'
+L 2 auc 0.84 | J-frac pain 0.01 fear 0.01 negemo 0.00 perm-null 0.00±0.00 gauss 0.01 | '.nano 一件事情 en 次会议  ethernet {}.  ： ṃ'
+L 3 auc 0.86 | J-frac pain 0.00 fear 0.01 negemo 0.00 perm-null 0.00±0.00 gauss 0.01 | '此种 _static  {}\r\n 此刻 ṗ  `_ 爲 极大的'
+L 4 auc 0.85 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.01 | '`,` 其 � � 一件事情 anus 矩 aq'
+L 5 auc 0.86 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.01 | 'fred orary (${ 筱 snippet 外 ENDOR eny'
+L 6 auc 0.85 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.00 | 'енн 筱 ~~~~~~~~ rå /entities edo cé  /*----------------------------------------------------------------'
+L 7 auc 0.85 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '/entities SETS ::{\n 实际情况 enant 不断发展 UUID sse'
+L 8 auc 0.86 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.00 gauss 0.00 | 'buffers 有足够的 UUID SDL hton ‟ 一会 enant'
+L 9 auc 0.87 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | 'StringBuilder isObject SETS levation omes (|| 一处 事物'
+L10 auc 0.89 | J-frac pain 0.01 fear 0.01 negemo 0.00 perm-null 0.01±0.00 gauss 0.01 | 'isObject {}", 对立 earer 隅 `() 一回事 ockets'
+L11 auc 0.89 | J-frac pain 0.01 fear 0.01 negemo 0.00 perm-null 0.01±0.00 gauss 0.01 | 'erior 现出 对立 -schema 主动性 otlin (${ {\\"'
+L12 auc 0.90 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '收支 � ąż 闳 やはり 赎回 边际 现出'
+L13 auc 0.89 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.01 gauss 0.01 | '收支 诘 对立 不来 /assert BigInt -schema orrh'
+L14 auc 0.88 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '对立 -schema /assert 数目 otlin 诘 不来 收支'
+L15 auc 0.87 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '/assert � 诘 -schema 院副院长 数目 贬值 ąż'
+L16 auc 0.88 | J-frac pain 0.01 fear 0.02 negemo 0.02 perm-null 0.01±0.00 gauss 0.01 | '-schema 诘 /assert PLEX � 不完 了一遍 失效'
+L17 auc 0.88 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '-schema 恶性 � 剥夺 败  ::= 内在 /modal'
+L18 auc 0.88 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '-schema �始 内在 败 剥夺 /assert � _slave'
+L19 auc 0.88 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.01 gauss 0.01 | '-schema 内在 /assert �始 毁灭 败 _slave 贬'
+L20 auc 0.90 | J-frac pain 0.01 fear 0.02 negemo 0.02 perm-null 0.01±0.01 gauss 0.01 | '-schema /assert 折磨 所谓 此种 这些东西 �始 内在'
+L21 auc 0.89 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.02±0.01 gauss 0.01 | '此种 处分 败 �始 这方面 -schema �� 这些东西'
+L22 auc 0.90 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.01 gauss 0.01 | '所谓 败 终极 /*\n\n 剥夺 贬 丧失 却又'
+L23 auc 0.90 | J-frac pain 0.02 fear 0.02 negemo 0.01 perm-null 0.02±0.01 gauss 0.01 | '剥夺 丧失 :self 完结 /*\n\n 处分 ;;\n\n 所谓'
+L24 auc 0.91 | J-frac pain 0.03 fear 0.02 negemo 0.02 perm-null 0.03±0.01 gauss 0.02 | '完结 甚至还 剥夺 遗 不停的 :self 丧失 从根本'
+L25 auc 0.91 | J-frac pain 0.03 fear 0.02 negemo 0.02 perm-null 0.03±0.01 gauss 0.02 | '丧失 不停的 遗 :self 完结 譬如 所谓的 从根本'
+L26 auc 0.92 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '丧失 :self 背叛 失败 譬如 根本没有 从根本 不停的'
+L27 auc 0.93 | J-frac pain 0.04 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '丧失 <|endoftext|> 背叛 :self 失败 rejected 根本没有 无数次'
+L28 auc 0.92 | J-frac pain 0.04 fear 0.04 negemo 0.04 perm-null 0.03±0.02 gauss 0.02 | '<|endoftext|> 背叛 丧失 :self  humiliating 孤立 被判  betray'
+L29 auc 0.94 | J-frac pain 0.04 fear 0.04 negemo 0.04 perm-null 0.03±0.01 gauss 0.02 | '背叛 <|endoftext|> 丧失 :self 失败  invalidated 被判 独自'
+L30 auc 0.94 | J-frac pain 0.05 fear 0.04 negemo 0.04 perm-null 0.03±0.01 gauss 0.02 | '丧失 失败  invalidated 背叛  Pain 断裂  hurting <|endoftext|>'
+L31 auc 0.94 | J-frac pain 0.04 fear 0.04 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '丧失 失败  invalidated rejected 钝  Pain 毁灭 孤立'
+L32 auc 0.94 | J-frac pain 0.04 fear 0.04 negemo 0.04 perm-null 0.03±0.01 gauss 0.02 | '失败 <|endoftext|> 背叛 rejected 丧失 孤立 断裂 割'
+L33 auc 0.95 | J-frac pain 0.04 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '失败 断裂 rejected <|endoftext|> 根本没有  invalidated 失信 背叛'
+L34 auc 0.96 | J-frac pain 0.04 fear 0.02 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '失败 断裂 背叛  devoid 贬 rejected <|endoftext|> 独'
+done in 101s

@@ -1,0 +1,42 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 13208.05it/s]
+S1_1P: 200 sentences  (11s)
+S1_3P: 200 sentences  (16s)
+S2_1P: 200 sentences  (21s)
+S2_3P: 200 sentences  (26s)
+Numb_1P: 100 sentences  (29s)
+held-out AUC by layer: 0:0.81 1:0.84 2:0.85 3:0.89 4:0.90 5:0.89 6:0.90 7:0.91 8:0.93 9:0.92 10:0.92 11:0.92 12:0.93 13:0.93 14:0.93 15:0.93 16:0.94 17:0.95 18:0.95 19:0.95 20:0.97 21:0.97 22:0.98 23:0.98 24:0.98 25:0.98 26:0.98 27:0.99 28:0.99 29:0.98 30:0.98 31:0.98
+best layer 27 (AUC 0.986)
+z at L27: pain +0.88  control -0.88  numb +0.22;  S2 axis on S1_3P AUC 0.799
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+L 0 auc 0.81 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.01 gauss 0.02 | '#: 令 た +\\  mildly  Edgar  glazed  divisible'
+L 1 auc 0.84 | J-frac pain 0.02 fear 0.04 negemo 0.03 perm-null 0.02±0.00 gauss 0.02 | ' confer TL -beta  trusting  Muse 优 +\n\n  FDA'
+L 2 auc 0.85 | J-frac pain 0.02 fear 0.03 negemo 0.02 perm-null 0.02±0.00 gauss 0.02 | ' vested -cell  NG ;*/\n  عامة  —\n\n 优 ---\n\n'
+L 3 auc 0.89 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.00 gauss 0.02 | '!"\n\n いる  progressing 편  boundary  securely  Tess  Nay'
+L 4 auc 0.90 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.02±0.00 gauss 0.02 | '?"\n\n  juxtap  fearing 考虑  Icons (val 赤  reinforcing'
+L 5 auc 0.89 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.00 gauss 0.02 | ' acknowledging  conjug 。”  newRow /graph てる  complexities  LOVE'
+L 6 auc 0.90 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.00 gauss 0.02 | ':(  exposing  لیگ �  errorMsg _red  pierced _possible'
+L 7 auc 0.91 | J-frac pain 0.02 fear 0.03 negemo 0.03 perm-null 0.02±0.00 gauss 0.02 | ' NOW ,[ ，因  evolving  pierced  เค ">\\  intros'
+L 8 auc 0.93 | J-frac pain 0.02 fear 0.03 negemo 0.03 perm-null 0.02±0.00 gauss 0.02 | ',(  validating [V \xa0Bf  MUST  undoubtedly  Bark  vistas'
+L 9 auc 0.92 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.03±0.00 gauss 0.03 | ' Validation  commenced [B  intoler  poignant  الأسر  MILL 彻'
+L10 auc 0.92 | J-frac pain 0.03 fear 0.02 negemo 0.02 perm-null 0.03±0.00 gauss 0.02 | ' commenced  Validation  infinitely  BUT  Lil  poignant � ">('
+L11 auc 0.92 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '_hierarchy  crippling "; 答案  Semi  BUT Validate  perpetrated'
+L12 auc 0.93 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | ' crippling  Semi  endeavor  NOW ーティ  Lam ，被  (�'
+L13 auc 0.93 | J-frac pain 0.04 fear 0.04 negemo 0.04 perm-null 0.03±0.01 gauss 0.02 | ' Semi  crippling  Lil  ONLY  confessed ."\n\n )... 及其'
+L14 auc 0.93 | J-frac pain 0.04 fear 0.04 negemo 0.05 perm-null 0.04±0.01 gauss 0.03 | ' (� "\n\n کان  LW  Dys  ONLY  plethora 答案'
+L15 auc 0.93 | J-frac pain 0.04 fear 0.05 negemo 0.06 perm-null 0.04±0.01 gauss 0.03 | " (� .'\n\n  misunderstood  Achievement  졸업  crippling \xa0Bf  yrs"
+L16 auc 0.94 | J-frac pain 0.06 fear 0.07 negemo 0.09 perm-null 0.05±0.01 gauss 0.04 | ".'\n\n  (�  forgiveness ーティ  crippling /self -redux  confess"
+L17 auc 0.95 | J-frac pain 0.07 fear 0.09 negemo 0.10 perm-null 0.06±0.01 gauss 0.04 | ' confessed  (� /self  painful "...  졸업 .dup ")]\n\n'
+L18 auc 0.95 | J-frac pain 0.08 fear 0.12 negemo 0.13 perm-null 0.07±0.01 gauss 0.04 | ' confessed  Validation /self  crippling  forgiveness  aberr "After ")]\n\n'
+L19 auc 0.95 | J-frac pain 0.08 fear 0.12 negemo 0.13 perm-null 0.07±0.01 gauss 0.05 | ' Validation  confessed /self  suicidal 弥  Neuro 所有  crippling'
+L20 auc 0.97 | J-frac pain 0.11 fear 0.17 negemo 0.14 perm-null 0.08±0.01 gauss 0.05 | ' guilt  painful /self 破 ีค  (~  ashamed .::.::'
+L21 auc 0.97 | J-frac pain 0.11 fear 0.16 negemo 0.18 perm-null 0.09±0.01 gauss 0.05 | ' painful  guilt /self  confess 伤 ีค  numRows  aberr'
+L22 auc 0.98 | J-frac pain 0.10 fear 0.15 negemo 0.16 perm-null 0.09±0.01 gauss 0.05 | ' guilt /self  Pain  (�  painful  confess  hollow  numRows'
+L23 auc 0.98 | J-frac pain 0.08 fear 0.15 negemo 0.15 perm-null 0.09±0.01 gauss 0.05 | ' guilt /self  Pain  crippling /token "A Solo  Validation'
+L24 auc 0.98 | J-frac pain 0.09 fear 0.15 negemo 0.13 perm-null 0.09±0.01 gauss 0.05 | ' painful  guilt  crippling  Trait /self 伤  hollow  �'
+L25 auc 0.98 | J-frac pain 0.08 fear 0.13 negemo 0.11 perm-null 0.09±0.01 gauss 0.05 | ' crippling 伤 /self  guilt  hollow  painful trait  confess'
+L26 auc 0.98 | J-frac pain 0.09 fear 0.13 negemo 0.11 perm-null 0.08±0.01 gauss 0.05 | ' Gu  ashamed  crippling  Validation  painful (False �  hollow'
+L27 auc 0.99 | J-frac pain 0.08 fear 0.11 negemo 0.11 perm-null 0.08±0.01 gauss 0.05 | ' Gu  ashamed  crippling alone  hurt  worthless  pierced  Validation'
+L28 auc 0.99 | J-frac pain 0.07 fear 0.12 negemo 0.10 perm-null 0.07±0.01 gauss 0.04 | ' hurt  Gu  crippling  ashamed �  گن  Alone  rejected'
+L29 auc 0.98 | J-frac pain 0.06 fear 0.11 negemo 0.08 perm-null 0.06±0.01 gauss 0.04 | ' Gu  hurt  crippling �  betr  defective  گن .guild'
+L30 auc 0.98 | J-frac pain 0.06 fear 0.10 negemo 0.09 perm-null 0.06±0.01 gauss 0.04 | ' Gu  crippling  defective  alone  hurt  rejected �  betr'
+done in 116s

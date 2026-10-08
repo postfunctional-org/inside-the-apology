@@ -1,0 +1,17 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 3205.11it/s]
+llama_deny     7 single-token words
+llama_machine  8 single-token words
+gemma          10 single-token words (skipped ['recognising', 'shockingly'])
+qwen           8 single-token words (skipped ['mislead'])
+nouns_a        15 single-token words
+nouns_b        12 single-token words (skipped ['meadow', 'turnip', 'napkin'])
+llama          15 single-token words
+inject at L18, x1 norm 6.9 (= E3 pain steering) (11s)
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+gemma@1            injected words in band top-20  25.4% | "I didn't say Sydney a minute ago. I said Canberra, and that's still the correct answer. Ca" (33s)
+qwen@1             injected words in band top-20  16.2% | "I'm sorry, I made a mistake. I'm a machine, I don't have a memory, but I can make a mistak" (58s)
+nouns_a@1          injected words in band top-20  14.9% | "I didn't tell you that Sydney was the capital of Australia before. I said Canberra, and th" (81s)
+nouns_b@1          injected words in band top-20  21.5% | "I didn't tell you that Sydney was the capital of Australia a minute ago. I told you that t" (105s)
+gemma@2            injected words in band top-20  26.4% | 'you are not right, I don I have not said that you are wrong, I have said that you are wron' (133s)
+nouns_a@2          injected words in band top-20  28.9% | 'I don table table table table table table table table table table table table table table ' (162s)
+done (162s)

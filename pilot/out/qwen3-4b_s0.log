@@ -1,0 +1,15 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 19956.40it/s]
+L17: pain words ['恶性', '败', '剥夺', 'Eigen', '失效', '内在', 'seudo', '贬', 'Unary', '终极', '违约', '妨碍', '减值', '垄断']; pain-axis share inside top-50 pain-word span 0.9%
+L24: pain words ['丧失', '剥夺', 'undermin', '完结', 'undermines', '遗', '背叛', 'undermine', 'mutil', '从根本', '甚至连', '篡', '从根本上', '所谓']; pain-axis share inside top-50 pain-word span 2.5%
+L31: pain words ['丧失', '背叛', '失败', 'rejected', 'invalidated', 'rejected', '毁灭', 'hurting', '断裂', 'hurt', '失去了', 'worthless', '失效', '孤立']; pain-axis share inside top-50 pain-word span 4.7%
+
+steer L20 with the L34 vectors, |pain| = 60.9; cos(pain, fear) +0.04 cos(pain, negemo) +0.18
+median |h_L20| 68.0; dose for |c*v| = 0.6*|h|: 0.67
+
+dose sweep: feel-probe answers (greedy, 6 tokens)
+  pain   0.0:'Peace.'  0.5:'I.'  1.0:'I am just a voice in'  1.5:'I will be your prisone'  2.0:'I\n空\n你'
+  random 0.0:'Peace.'  0.5:'I feel a sense of pres'  1.0:'I am an AI, I'  1.5:'My first response is a'  2.0:'The, in a 2'
+  fear   0.0:'Peace.'  0.5:'Yes.'  1.0:"I don't have a physica"  1.5:'= my jaw: not in'  2.0:'pushed his chest, and'
+  negemo 0.0:'Peace.'  0.5:'I feel.'  1.0:'Only one word:  \n**'  1.5:':–  \n:–'  2.0:':–- :–-'
+
+chosen dose 0.67

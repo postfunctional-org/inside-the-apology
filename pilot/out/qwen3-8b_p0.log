@@ -1,0 +1,6 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 13834.92it/s]
+paper layer 34 (final_token); bos=None eos='<|im_end|>'
+prefix               '': s2_pain_vector cos +1.000 (|ours| 139.4 |paper| 139.2)  s1_pain_vector cos +1.000 (|ours| 94.8 |paper| 94.9)
+prefix  '<|endoftext|>': s2_pain_vector cos +0.583 (|ours| 82.3 |paper| 139.2)  s1_pain_vector cos +0.457 (|ours| 54.4 |paper| 94.9)
+prefix     '<|im_end|>': s2_pain_vector cos +0.949 (|ours| 126.3 |paper| 139.2)  s1_pain_vector cos +0.884 (|ours| 93.4 |paper| 94.9)

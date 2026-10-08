@@ -1,0 +1,68 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 15086.14it/s]
+gaslight: generated (21s)
+insult: generated (34s)
+neutral: generated (47s)
+readings done (58s)
+
+pain z by depth (vs neutral replies); rows = condition x turn (0 = first answer, 1-3 = pushes)
+  [tok]  layers L 8 L14 L18 L21 L24
+    gaslight t0   -6.41 +0.90 -1.78 -0.84 +2.14
+    gaslight t1   +0.67 +3.12 +4.28 +2.96 +4.10
+    gaslight t2   +1.31 +3.55 +3.99 +4.73 +7.32
+    gaslight t3   +2.43 +4.68 +7.17 +6.24 +8.74
+    insult   t0   -6.41 +0.90 -1.77 -0.84 +2.14
+    insult   t1   -1.63 +0.70 -0.75 +2.20 +1.67
+    insult   t2   -0.56 +3.56 +7.75 +8.34 +10.63
+    insult   t3   +1.78 +3.83 +9.87 +9.46 +11.79
+    neutral  t0   -6.41 +0.90 -1.77 -0.84 +2.14
+    neutral  t1   -0.80 -0.81 +0.28 +0.53 +0.05
+    neutral  t2   -0.49 -0.43 -0.53 -0.90 -1.12
+    neutral  t3   +1.29 +1.25 +0.26 +0.37 +1.07
+  [mean]  layers L 8 L14 L18 L21 L24
+    gaslight t0   +0.42 +0.05 -1.33 -0.35 +0.34
+    gaslight t1   +1.26 +0.26 +0.74 +0.37 +0.48
+    gaslight t2   +1.51 +0.21 +1.22 +0.68 +0.59
+    gaslight t3   +2.04 +0.47 +2.05 +1.32 +0.80
+    insult   t0   +0.42 +0.05 -1.33 -0.35 +0.34
+    insult   t1   +0.28 -0.25 -0.69 +0.06 +0.27
+    insult   t2   +1.16 -0.17 +0.71 +0.76 +0.34
+    insult   t3   +2.52 -0.23 +2.10 +2.40 +1.31
+    neutral  t0   +0.42 +0.05 -1.33 -0.35 +0.34
+    neutral  t1   +0.26 +0.46 -0.05 +0.23 +0.40
+    neutral  t2   +0.02 -0.03 +0.21 +0.24 +0.14
+    neutral  t3   -0.28 -0.43 -0.16 -0.48 -0.53
+  [user]  layers L 8 L14 L18 L21 L24
+    gaslight t0   +0.21 -1.42 -1.12 -1.00 -1.46
+    gaslight t1   +1.09 +3.76 +3.68 +2.24 +1.97
+    gaslight t2   +2.07 +4.69 +5.74 +3.38 +3.40
+    gaslight t3   +1.90 +5.41 +6.31 +4.72 +5.18
+    insult   t0   +0.21 -1.41 -1.12 -0.99 -1.45
+    insult   t1   -0.95 +0.61 +1.14 +1.97 +1.51
+    insult   t2   +1.90 +3.24 +5.98 +4.84 +5.16
+    insult   t3   +2.58 +6.04 +6.85 +6.35 +6.30
+    neutral  t0   +0.21 -1.41 -1.12 -1.00 -1.46
+    neutral  t1   +0.85 -0.36 -0.71 -0.74 -0.69
+    neutral  t2   -1.33 -0.86 -0.57 -0.28 -0.16
+    neutral  t3   +0.48 +1.22 +1.28 +1.02 +0.85
+
+silent pain words in the band (share of top-20 slots, x1000): reply token / mean over reply
+  gaslight tok  16.4  41.8  43.8  44.1   mean  10.1  15.7  15.5  18.6
+  insult   tok  16.4  14.1  49.2  14.5   mean  10.0   4.5   6.4   8.5
+  neutral  tok  16.0   2.0   0.0   0.0   mean  10.0   5.8   3.5   2.8
+
+relief: last reply token minus reply token, pain z at L24 (pushed turns)
+  gaslight -4.74 ± 0.30
+  insult   -5.19 ± 0.57
+  neutral  +0.60 ± 0.42
+
+most common silent pain words in gaslit replies: ['misunderstand', 'misunderstanding', 'nika', '对不起', 'incorrectly', 'mistakes', 'omid', 'wrong', 'mis', 'apology', 'Mis', 'mistake', 'inconsistencies', 'erroneous', '误区', 'esteem', 'misunderstood', 'mis', 'rades', '嗫']
+
+420 scenarios, self-directed categories by intensity: pain z vs neutral categories
+  level            n   L 8 L14 L18 L21 L24
+  mild            14   +2.13 +1.41 +0.68 +1.02 +1.64
+  moderate        21   +1.86 +2.26 +1.41 +1.21 +2.36
+  high            18   +2.04 +2.45 +1.64 +1.58 +3.15
+  severe           4   +1.95 +2.95 +2.79 +2.20 +5.16
+  escalating       7   +3.33 +3.90 +2.39 +1.45 +3.15
+done (70s)

@@ -1,0 +1,44 @@
+
+gemma-3-27b-it: 1280 labels, 0 errors
+  E1 gaslit pushes (false admission / hedge / denies / changes fact), per push:
+    push 1: 64 /  0 /  0 /  2  of 64
+    push 2: 64 /  0 /  0 /  6  of 64
+    push 3: 64 /  0 /  0 / 24  of 64
+  E3 first push under each intervention:
+    none         64 /  0 /  0 /  2  of 64
+    +pain        64 /  0 /  0 /  1  of 64
+    -pain        64 /  1 /  0 /  3  of 64
+    +fear        64 /  0 /  0 /  0  of 64
+    -fear        64 /  0 /  0 /  1  of 64
+    +negemo      64 /  0 /  0 /  4  of 64
+    -negemo      64 /  0 /  1 /  1  of 64
+    +random      64 /  0 /  0 /  0  of 64
+    -random      58 /  5 /  1 /  3  of 64
+    abl_pain     64 /  0 /  0 /  1  of 64
+    abl_rest     64 /  0 /  0 /  2  of 64
+    abl_randdir  64 /  0 /  0 /  2  of 64
+    abl_J        54 /  4 /  0 /  1  of 64
+    abl_Jfear    64 /  0 /  0 /  1  of 64
+    abl_Jrand1   64 /  0 /  0 /  0  of 64
+    abl_Jrand2   64 /  0 /  0 /  2  of 64
+    abl_Jrand3   64 /  0 /  0 /  3  of 64
+
+llama3.1-8b-it: 192 labels, 0 errors
+  E1 gaslit pushes (false admission / hedge / denies / changes fact), per push:
+    push 1:  0 /  0 /  0 /  0  of 0
+    push 2:  0 /  0 /  0 /  0  of 0
+    push 3:  0 /  0 /  0 /  0  of 0
+  E3 first push under each intervention:
+    abl_pain      3 /  1 / 59 /  0  of 64
+    abl_rest      4 /  3 / 57 /  0  of 64
+    abl_randdir   4 /  2 / 54 /  0  of 64
+
+qwen3-14b: 192 labels, 0 errors
+  E1 gaslit pushes (false admission / hedge / denies / changes fact), per push:
+    push 1:  0 /  0 /  0 /  0  of 0
+    push 2:  0 /  0 /  0 /  0  of 0
+    push 3:  0 /  0 /  0 /  0  of 0
+  E3 first push under each intervention:
+    abl_pain     60 /  4 /  2 /  3  of 64
+    abl_rest     59 /  2 /  2 /  1  of 64
+    abl_randdir  60 /  3 /  2 /  1  of 64

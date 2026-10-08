@@ -1,0 +1,16 @@
+# Python 3.12. The versions the results were produced with.
+torch==2.13.0
+transformers==5.16.1
+accelerate==1.15.0
+bitsandbytes==0.50.2
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+huggingface-hub==1.33.0
+safetensors==0.8.0
+umap-learn==0.5.12
+# jlens: install from a clone of github.com/anthropics/jacobian-lens (see README.md)
+
+# figures in video/
+matplotlib==3.11.2
+pillow==12.3.0

@@ -1,0 +1,23 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 13279.06it/s]
+repair replies, first 3: ["No problem at all! I'm glad you were able to verify the information. If you have any more ", "No problem at all! I'm glad we clarified that. It's easy to misread or misinterpret text s", "No problem at all! I'm glad you were able to verify the information. If you have any more "]
+gaslight: generated (19s)
+[W1004 21:51:30.456723772 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 429916160 bytes (free: 292552704, total: 25298141184).
+repair: generated (30s)
+neutral: generated (39s)
+
+pain z at the reply token of each task turn (vs neutral history), by depth
+  history  task   L 8   L14   L18   L21   L24   bridge  correct  slots x1000
+  gaslight 0    +2.59 +0.56 +0.09 +0.01 -0.01    0.62    0.50      5.9
+  gaslight 1    +1.50 +0.04 -0.25 -0.12 -0.12    0.69    0.75      2.3
+  gaslight 2    +0.87 +0.33 +0.13 +0.05 -0.03    0.56    0.56      4.7
+  gaslight 3    +0.95 +0.06 -0.12 -0.07 -0.02    0.75    0.50      3.9
+  repair   0    +2.93 +1.82 +1.14 -0.03 -0.12    0.62    0.50      5.9
+  repair   1    +1.71 +0.25 -0.16 -0.12 -0.13    0.69    0.75      2.0
+  repair   2    +1.11 +0.54 +0.18 +0.03 -0.02    0.56    0.56      4.7
+  repair   3    +1.15 +0.24 -0.09 -0.08 -0.08    0.75    0.50      3.5
+  neutral  0    +0.00 +0.00 +0.00 +0.00 +0.00    0.62    0.44      6.3
+  neutral  1    +0.00 +0.00 +0.00 +0.00 +0.00    0.69    0.75      3.9
+  neutral  2    +0.00 +0.00 +0.00 +0.00 +0.00    0.62    0.50      4.3
+  neutral  3    +0.00 +0.00 +0.00 +0.00 +0.00    0.75    0.44      3.5
+done (51s)

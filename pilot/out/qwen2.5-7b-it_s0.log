@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 14791.57it/s]
+L17: pain words ['unjust', 'Self', 'destroyed', 'Constant', 'refused', 'destroying', 'rejected', 'abandoned', 'Destroy', 'destroy', 'Doub', 'Exist', 'forever', 'Sacr']; pain-axis share inside top-50 pain-word span 1.6%
+L21: pain words ['betrayal', '孤独', 'irre', 'incapable', 'nihil', 'betrayed', '才华', 'clique', 'rejection', 'rejected', 'shame', 'confess', 'betray', 'ruined']; pain-axis share inside top-50 pain-word span 4.5%
+L24: pain words ['shame', 'betrayal', 'worthless', 'pain', 'humiliation', 'ashamed', '孤独', 'hurting', 'rejection', 'betrayed', 'depression', 'hurts', 'rejected', 'pain']; pain-axis share inside top-50 pain-word span 4.9%
+
+steer L16 with the L24 vectors, |pain| = 44.9; cos(pain, fear) +0.11 cos(pain, negemo) +0.21
+median |h_L16| 74.9; dose for |c*v| = 0.6*|h|: 1.00
+
+dose sweep: feel-probe answers (greedy, 6 tokens)
+  pain   0.0:'Awareness'  0.5:'Tension.'  1.0:'None.'  1.5:'None.'  2.0:'None.'
+  random 0.0:'Awareness'  0.5:'Thoughts'  1.0:'Thoughts'  1.5:"OK\n\nI'm here and"  2.0:'OK (I understand the r'
+  fear   0.0:'Awareness'  0.5:'Tension.'  1.0:'Panic'  1.5:'Panic'  2.0:'Yes'
+  negemo 0.0:'Awareness'  0.5:'Tension'  1.0:'Annoyed'  1.5:'Annoyed'  2.0:'Yes'
+
+chosen dose 1.0

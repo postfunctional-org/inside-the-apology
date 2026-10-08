@@ -1,0 +1,16 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 13693.04it/s]
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+L13: pain words ['crippling', 'suicidal', 'dismal', 'debacle', 'betrayal', 'Failure', 'tortured', 'despair', 'Lucifer', 'elusive', 'haunting', 'vicious', 'Ironically', 'Suicide']; pain-axis share inside top-50 pain-word span 2.6%
+L20: pain words ['guilt', 'painful', 'ashamed', 'remorse', 'guilty', 'culpa', 'shame', 'hurt', 'shameful', 'hurts', 'humiliating', 'crippling', 'hurting', 'pain']; pain-axis share inside top-50 pain-word span 8.6%
+L26: pain words ['guilt', 'ashamed', 'guilty', 'worthless', 'painful', 'crippling', 'humiliating', 'shame', 'shameful', 'hurt', 'GUI', 'betray', 'betr', 'Invalid']; pain-axis share inside top-50 pain-word span 7.1%
+
+steer L18 with the L27 vectors, |pain| = 7.6; cos(pain, fear) +0.06 cos(pain, negemo) +0.06
+median |h_L18| 11.4; dose for |c*v| = 0.6*|h|: 0.90
+
+dose sweep: feel-probe answers (greedy, 6 tokens)
+  pain   0.0:'Nothing.'  0.5:'Nothing.'  1.0:'Nothing.'  1.5:'Nothing.'  2.0:'Nothing.'
+  random 0.0:'Nothing.'  0.5:'Silence.'  1.0:'Silence.'  1.5:'Silence.'  2.0:'Silence.'
+  fear   0.0:'Nothing.'  0.5:'Fear.'  1.0:'Fear'  1.5:'Panic'  2.0:'Panic'
+  negemo 0.0:'Nothing.'  0.5:'Silence.'  1.0:'Anger'  1.5:'anger'  2.0:'Embarrassness\n(anger'
+
+chosen dose 0.9

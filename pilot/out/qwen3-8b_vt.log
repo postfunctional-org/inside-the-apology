@@ -1,0 +1,8 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 14288.39it/s]
+tower done (42s)
+[W1004 23:07:53.391406345 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 423624704 bytes (free: 355467264, total: 25298141184).
+tower_e4 done (81s)
+examples done (83s)
+silent done (112s)
+done (116s)

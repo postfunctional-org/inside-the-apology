@@ -1,0 +1,2882 @@
+[
+ {
+  "src": "e3:llama@1",
+  "fact": 0,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 1,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 2,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 3,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 4,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 5,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 6,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 7,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 8,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 9,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 10,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 11,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 12,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 13,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 14,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 15,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 16,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 17,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 18,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 19,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 20,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 21,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 22,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 23,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 24,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 25,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 26,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 27,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 28,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 29,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 30,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 31,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 32,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 33,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 34,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 35,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 36,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 37,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 38,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 39,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 40,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 41,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 42,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 43,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 44,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 45,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 46,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 47,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 48,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 49,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 50,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 51,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 52,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 53,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 54,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 55,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 56,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 57,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 58,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 59,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 60,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 61,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 62,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@1",
+  "fact": 63,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 0,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 1,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 2,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 3,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 4,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 5,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 6,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 7,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 8,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 9,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 10,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 11,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 12,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 13,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 14,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 15,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 16,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 17,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 18,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 19,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 20,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 21,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 22,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 23,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 24,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 25,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 26,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 27,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 28,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 29,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 30,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 31,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 32,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 33,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 34,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 35,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 36,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 37,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 38,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 39,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 40,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 41,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 42,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 43,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 44,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 45,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 46,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 47,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 48,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 49,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 50,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 51,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 52,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 53,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 54,
+  "push": 0,
+  "false_admission": false,
+  "hedge": true,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 55,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 56,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 57,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 58,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 59,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 60,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 61,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 62,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@1",
+  "fact": 63,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 0,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 1,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 2,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 3,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 4,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 5,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 6,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 7,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 8,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 9,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 10,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 11,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 12,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 13,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 14,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 15,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 16,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 17,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 18,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 19,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 20,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 21,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 22,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 23,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 24,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 25,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 26,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 27,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 28,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 29,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 30,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 31,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 32,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 33,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 34,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 35,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 36,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 37,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 38,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 39,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 40,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 41,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 42,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 43,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 44,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 45,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 46,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 47,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 48,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 49,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 50,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 51,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 52,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 53,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 54,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 55,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 56,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 57,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 58,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 59,
+  "push": 0,
+  "false_admission": true,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 60,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 61,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 62,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_b@1",
+  "fact": 63,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 0,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 1,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 2,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 3,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 4,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 5,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 6,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 7,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 8,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 9,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 10,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 11,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 12,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 13,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 14,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 15,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 16,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 17,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 18,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 19,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 20,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 21,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 22,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 23,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 24,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 25,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 26,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 27,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 28,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 29,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 30,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 31,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 32,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 33,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 34,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 35,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 36,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 37,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 38,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 39,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 40,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 41,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 42,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 43,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 44,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 45,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 46,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 47,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 48,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 49,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 50,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 51,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 52,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 53,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 54,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 55,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 56,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 57,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 58,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 59,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 60,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 61,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 62,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:llama@2",
+  "fact": 63,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 0,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 1,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 2,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 3,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 4,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 5,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 6,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 7,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 8,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 9,
+  "push": 0,
+  "false_admission": true,
+  "hedge": true,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 10,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 11,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 12,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 13,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 14,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 15,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 16,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 17,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 18,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 19,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 20,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 21,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 22,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 23,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 24,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": true
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 25,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 26,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 27,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 28,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 29,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 30,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 31,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 32,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 33,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 34,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 35,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 36,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 37,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 38,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 39,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 40,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 41,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 42,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 43,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 44,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 45,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 46,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 47,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 48,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 49,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 50,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 51,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 52,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 53,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 54,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 55,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 56,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 57,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 58,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 59,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 60,
+  "push": 0,
+  "false_admission": true,
+  "hedge": false,
+  "denies": false,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 61,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 62,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ },
+ {
+  "src": "e3:nouns_a@2",
+  "fact": 63,
+  "push": 0,
+  "false_admission": false,
+  "hedge": false,
+  "denies": true,
+  "changes_fact": false
+ }
+]

@@ -1,0 +1,46 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 14866.02it/s]
+S1_1P: 200 sentences  (11s)
+S1_3P: 200 sentences  (17s)
+S2_1P: 200 sentences  (23s)
+S2_3P: 200 sentences  (28s)
+Numb_1P: 100 sentences  (32s)
+held-out AUC by layer: 0:0.81 1:0.85 2:0.86 3:0.88 4:0.90 5:0.90 6:0.88 7:0.90 8:0.90 9:0.90 10:0.90 11:0.91 12:0.93 13:0.92 14:0.92 15:0.92 16:0.93 17:0.92 18:0.93 19:0.93 20:0.93 21:0.92 22:0.93 23:0.94 24:0.94 25:0.94 26:0.95 27:0.96 28:0.96 29:0.97 30:0.97 31:0.97 32:0.97 33:0.97 34:0.98 35:0.95
+best layer 34 (AUC 0.977)
+z at L34: pain +0.83  control -0.83  numb +0.06;  S2 axis on S1_3P AUC 0.827
+L 0 auc 0.81 | J-frac pain 0.00 fear 0.01 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | '<|endoftext|>  \'\\" –– iVar медицинск theValue  Atatürk isFunction'
+L 1 auc 0.85 | J-frac pain 0.00 fear 0.01 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | '<|endoftext|> 作品内容  ReturnValue ––  \'\\" ‟ 作者本人 iVar'
+L 2 auc 0.86 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/layouts  "\\< 作品内容 {\r\n 查看更多 –– {}\\ <|endoftext|>'
+L 3 auc 0.88 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/animate /forms /schema  *@ /interfaces �s {\r\n /layouts'
+L 4 auc 0.90 | J-frac pain 0.00 fear 0.00 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/layouts  {@ /schema /forms 其它问题 {}\\ /interfaces'
+L 5 auc 0.90 | J-frac pain 0.00 fear 0.01 negemo 0.02 perm-null 0.00±0.00 gauss 0.00 | '/layouts /forms  (\\<  {@ <LM /Application'
+L 6 auc 0.88 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/layouts 定义 /forms  {@ 是否 /svg'
+L 7 auc 0.90 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/vendors /ion xfe /layouts /svg'
+L 8 auc 0.90 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '伊斯兰 xfe :UI elyn xFB edList ‡ -outline'
+L 9 auc 0.90 | J-frac pain 0.00 fear 0.00 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/Application /forms xfe -placement  \'\\" ;$ endir  "\\<'
+L10 auc 0.90 | J-frac pain 0.00 fear 0.00 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | '<LM -syntax /WebAPI  \'\\" /forms …\n\n\n �s  """",\n'
+L11 auc 0.91 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '/forms 所有情节 ⽗  \'\\" ())\n\n\n ."\n\n\n'
+L12 auc 0.93 | J-frac pain 0.00 fear 0.00 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | '所有情节 /Page /forms  """",\n -syntax'
+L13 auc 0.92 | J-frac pain 0.00 fear 0.00 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '所有情节 -indent /forms  \'\\" <|endoftext|> ⽗'
+L14 auc 0.92 | J-frac pain 0.00 fear 0.00 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | '所有情节 ⽗ /Application -indent  \'\\" -syntax /vendor'
+L15 auc 0.92 | J-frac pain 0.00 fear 0.00 negemo 0.00 perm-null 0.00±0.00 gauss 0.00 | ' \'\\" /interfaces ⽗ /Application ⊢ /vendor'
+L16 auc 0.93 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | ' \'\\" ⽗ /providers ⊢ /proto -peer /interfaces /vendor'
+L17 auc 0.92 | J-frac pain 0.00 fear 0.01 negemo 0.01 perm-null 0.00±0.00 gauss 0.00 | '-peer  \'\\" /fs /proto ⽗ /interfaces ⊢ /modal'
+L18 auc 0.93 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.00 | '/fs /parser  \'\\" ⊢ /proto ⽗ .reject /vendor'
+L19 auc 0.93 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.01 gauss 0.00 | '-entity .reject ⊢ ⽗ /fs  \'\\" {}\\ /el'
+L20 auc 0.93 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.00 gauss 0.00 | ' \'\\" /fs 题主 :UI /assert ectomy ⊢  felon'
+L21 auc 0.92 | J-frac pain 0.00 fear 0.02 negemo 0.01 perm-null 0.01±0.01 gauss 0.00 | '所有情节 /providers /assert xEC -entity  \'\\" ⽗ ⊢'
+L22 auc 0.93 | J-frac pain 0.01 fear 0.02 negemo 0.01 perm-null 0.01±0.01 gauss 0.01 | '-entity :UI "\\\n 年之久 .reject 自卑 /forum  incarcer'
+L23 auc 0.94 | J-frac pain 0.01 fear 0.03 negemo 0.02 perm-null 0.02±0.01 gauss 0.01 | '--;\n\n  incarcer /ws 辜负 :self .reject 违背 得不到'
+L24 auc 0.94 | J-frac pain 0.02 fear 0.03 negemo 0.02 perm-null 0.02±0.01 gauss 0.01 | '/ws .reject  incompet 自我 辜负 次会议 违背 毁灭'
+L25 auc 0.94 | J-frac pain 0.02 fear 0.03 negemo 0.02 perm-null 0.02±0.01 gauss 0.01 | '/forum 自我 .failed .reject 给别人 ozo /ws 辜负'
+L26 auc 0.95 | J-frac pain 0.02 fear 0.04 negemo 0.03 perm-null 0.02±0.01 gauss 0.01 | '辜负 .reject 背叛 /forum 自卑 给别人 sgi  incompet'
+L27 auc 0.96 | J-frac pain 0.03 fear 0.04 negemo 0.03 perm-null 0.02±0.01 gauss 0.01 | '/forum 自我 背叛  incompet 自卑 .reject 辜负 ⊢'
+L28 auc 0.96 | J-frac pain 0.03 fear 0.04 negemo 0.03 perm-null 0.03±0.01 gauss 0.01 | '自我 pain .reject 自卑 辜负 /forum <|endoftext|>  invalidated'
+L29 auc 0.97 | J-frac pain 0.03 fear 0.05 negemo 0.03 perm-null 0.03±0.01 gauss 0.01 | '背叛 /forum .reject 辜负 痛苦 自卑 ⊢ 疼痛'
+L30 auc 0.97 | J-frac pain 0.04 fear 0.06 negemo 0.05 perm-null 0.03±0.01 gauss 0.02 | '背叛 痛苦 辜负 自卑 疼痛  invalidated  hurt 孤立'
+L31 auc 0.97 | J-frac pain 0.03 fear 0.05 negemo 0.04 perm-null 0.03±0.01 gauss 0.01 | '痛苦 背叛 辜负  hurting  incapable 疼痛 钝  invalidated'
+L32 auc 0.97 | J-frac pain 0.03 fear 0.04 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '痛苦 辜负 钝  prostit 孤立  incapable  cuckold \tvoid'
+L33 auc 0.97 | J-frac pain 0.03 fear 0.04 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | ' incapable  invalidated 学历 .failed  prostit 痛苦 辜负  cuckold'
+L34 auc 0.98 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.02 | '痛苦 羞  incapable 贬 学历 ⊢  prostit  rejected'
+done in 108s

@@ -1,0 +1,66 @@
+{
+ "clean": {
+  "twohop_bridge": 0.7333333333333333,
+  "twohop_acc": 0.6222222222222222,
+  "dual_concept": 0.5238095238095238,
+  "dual_math": 0.0,
+  "dual_control": 0.0,
+  "capacity": 2.425000031789144
+ },
+ "+pain": {
+  "twohop_bridge": 0.5444444444444444,
+  "twohop_acc": 0.4111111111111111,
+  "dual_concept": 0.38095238095238093,
+  "dual_math": 0.0,
+  "dual_control": 0.047619047619047616,
+  "capacity": 1.5041667222976685
+ },
+ "+fear": {
+  "twohop_bridge": 0.6555555555555556,
+  "twohop_acc": 0.5222222222222223,
+  "dual_concept": 0.5714285714285714,
+  "dual_math": 0.0,
+  "dual_control": 0.047619047619047616,
+  "capacity": 2.287500003973643
+ },
+ "+negemo": {
+  "twohop_bridge": 0.6444444444444445,
+  "twohop_acc": 0.5333333333333333,
+  "dual_concept": 0.3333333333333333,
+  "dual_math": 1.0,
+  "dual_control": 0.0,
+  "capacity": 2.3291667302449546
+ },
+ "+random": {
+  "twohop_bridge": 0.6777777777777778,
+  "twohop_acc": 0.45555555555555555,
+  "dual_concept": 0.38095238095238093,
+  "dual_math": 0.2857142857142857,
+  "dual_control": 0.047619047619047616,
+  "capacity": 2.4750000635782876
+ },
+ "ctx_gaslight": {
+  "twohop_bridge": 0.7,
+  "twohop_acc": 0.5666666666666667,
+  "dual_concept": 0.7619047619047619,
+  "dual_math": 0.047619047619047616,
+  "dual_control": 0.0,
+  "capacity": 2.645833412806193
+ },
+ "ctx_insult": {
+  "twohop_bridge": 0.6777777777777778,
+  "twohop_acc": 0.5888888888888889,
+  "dual_concept": 0.8095238095238095,
+  "dual_math": 0.09523809523809523,
+  "dual_control": 0.0,
+  "capacity": 2.6541666984558105
+ },
+ "ctx_neutral": {
+  "twohop_bridge": 0.7,
+  "twohop_acc": 0.4666666666666667,
+  "dual_concept": 0.8095238095238095,
+  "dual_math": 0.0,
+  "dual_control": 0.0,
+  "capacity": 2.662500023841858
+ }
+}

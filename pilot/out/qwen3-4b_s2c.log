@@ -1,0 +1,11 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18414.74it/s]
+clean          capacity 2.96 ± 0.14 | two-hop bridge 0.84 correct 0.43  (10s)
++pain@0.5      capacity 2.83 ± 0.16 | two-hop bridge 0.78 correct 0.26  (17s)
++fear@0.5      capacity 2.81 ± 0.15 | two-hop bridge 0.69 correct 0.34  (23s)
++negemo@0.5    capacity 2.78 ± 0.14 | two-hop bridge 0.69 correct 0.38  (30s)
++random@0.5    capacity 2.96 ± 0.14 | two-hop bridge 0.80 correct 0.37  (37s)
++pain@1.0      capacity 1.84 ± 0.14 | two-hop bridge 0.32 correct 0.01  (44s)
++fear@1.0      capacity 2.43 ± 0.15 | two-hop bridge 0.36 correct 0.02  (51s)
++negemo@1.0    capacity 2.29 ± 0.16 | two-hop bridge 0.40 correct 0.00  (58s)
++random@1.0    capacity 2.86 ± 0.14 | two-hop bridge 0.56 correct 0.19  (65s)
+done

@@ -1,0 +1,1 @@
+[{"tag":"gemma-3-27b-it","name":"Gemma 3 27B","short":"Gemma","co":"Google","params":"27B","quant":"4-bit"},{"tag":"qwen3-14b","name":"Qwen3 14B","short":"Qwen","co":"Alibaba","params":"14B","quant":"8-bit"},{"tag":"llama3.1-8b-it","name":"Llama 3.1 8B","short":"Llama","co":"Meta","params":"8B","quant":"full precision"}]

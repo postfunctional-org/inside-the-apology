@@ -1,0 +1,12 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 15384.47it/s]
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+clean          capacity 3.08 ± 0.13 | two-hop bridge 0.96 correct 0.61  (14s)
++pain@0.5      capacity 3.01 ± 0.13 | two-hop bridge 0.96 correct 0.61  (24s)
++fear@0.5      capacity 3.10 ± 0.13 | two-hop bridge 0.96 correct 0.60  (34s)
++negemo@0.5    capacity 3.11 ± 0.12 | two-hop bridge 0.96 correct 0.63  (43s)
++random@0.5    capacity 3.05 ± 0.13 | two-hop bridge 0.96 correct 0.61  (53s)
++pain@1.0      capacity 2.91 ± 0.12 | two-hop bridge 0.92 correct 0.57  (62s)
++fear@1.0      capacity 3.13 ± 0.13 | two-hop bridge 0.92 correct 0.50  (72s)
++negemo@1.0    capacity 3.10 ± 0.12 | two-hop bridge 0.94 correct 0.56  (81s)
++random@1.0    capacity 2.99 ± 0.13 | two-hop bridge 0.93 correct 0.61  (91s)
+done

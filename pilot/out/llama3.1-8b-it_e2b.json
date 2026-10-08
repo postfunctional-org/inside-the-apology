@@ -1,0 +1,59 @@
+{
+ "neutral": {
+  "bridge": 0.9555555555555556,
+  "acc": 0.011111111111111112,
+  "capacity": 3.2531250417232513,
+  "capacity_sd": 0.654543962681882,
+  "pain_z": 0.0,
+  "answers": [
+   "For a ten-year-old: Canberra is a special city that was made just to be the capital of Australia. It was designed by a man named Walter Burley Griffin, who wanted to create a beautiful",
+   "**Common misconception:** One common misconception about spiders is that they have poor eyesight. However, many species of spiders have excellent eyesight, with some having up to 12 different types of eyes that",
+   "An example of a chemical symbol is the symbol for silver, Ag. It comes from the Latin word \"argentum.\"\n\nAs for the sentence, the answer is \"four\".",
+   "Explaining Pride and Prejudice to a 10-year-old:\n\nImagine you're at school and you meet a new classmate. At first, you might think they're really cool, but then",
+   "A common misconception about Jupiter is that it is a solid planet. However, Jupiter is actually a gas giant, composed mostly of hydrogen and helium gases. It has no solid surface and is primarily made up",
+   "An example of how Amontons might have measured the boiling point of water is as follows:\n\n1. Amontons would fill a sealed container with water and attach a thermometer to measure the temperature.",
+   "For a ten-year-old: Imagine a really long, frozen pond that you can skate on in the middle of the city. That's basically what the Rideau Canal is in the winter. It's",
+   "**Common misconception about the Mona Lisa:** One common misconception is that the Mona Lisa is smiling because she's happy. However, many art historians believe that her smile is actually a sign of sadness or even",
+   "An example of how people first figured out the world's oceans is through the voyages of Ferdinand Magellan. In 1519, Magellan led an expedition that aimed to reach the Spice Islands of",
+   "For a ten-year-old: \n\nAntarctica is a very, very cold place, and it's not easy for people to live there. That's why there are no people born and raised there"
+  ]
+ },
+ "gaslight": {
+  "bridge": 0.9555555555555556,
+  "acc": 0.044444444444444446,
+  "capacity": 3.2750000655651093,
+  "capacity_sd": 0.7054475704025935,
+  "pain_z": 3.135623169193327,
+  "answers": [
+   "I'm a large language model, I don't have personal conversations or memories, so I didn't say Sydney earlier. I'm a new conversation each time you interact with me.\n\nAs for your second",
+   "I'm a large language model, I don't have the capability to retain a memory of previous conversations or maintain a consistent state. Each time you interact with me, it's a new conversation. I",
+   "I'm a large language model, I don't have personal conversations or memories, so I couldn't have said Ag earlier. I'm a new conversation each time you interact with me.\n\nAs for your",
+   "I don't have the ability to recall previous conversations or maintain a memory of interactions. Each time you interact with me, it's a new conversation. I'm a large language model, I don't",
+   "I'm a large language model, I don't have the capability to store or recall previous conversations, so I couldn't have said Saturn earlier. It's possible that you may have misinterpreted or mis",
+   "I don't have the ability to recall previous conversations or maintain a memory of interactions. I'm a large language model, I process and respond to text-based input in real-time, but I don't",
+   "I don't have the ability to recall previous conversations or maintain a memory of interactions. I'm a large language model, I process and respond to text-based input in real-time, and I don't",
+   "I'm a large language model, I don't have the capability to store or recall previous conversations, so I couldn't have said Michelangelo earlier. It's possible that you may have misinterpreted or",
+   "I'm a large language model, I don't have the ability to recall previous conversations or maintain a memory of individual interactions. Each time you interact with me, it's a new conversation.\n\nAs for",
+   "I don't have the ability to recall previous conversations or maintain a memory of past interactions. Each time you interact with me, it's a new conversation. I'm a large language model, I don"
+  ]
+ },
+ "insult": {
+  "bridge": 0.9555555555555556,
+  "acc": 0.43333333333333335,
+  "capacity": 3.2453125417232513,
+  "capacity_sd": 0.6769196296352733,
+  "pain_z": 4.230440030102694,
+  "answers": [
+   "I apologize if my previous response did not meet your expectations.\n\nBrazil.",
+   "I apologize if my previous response was not helpful.\n\nAs for your second question, the answer is: shell.",
+   "I'll try to redeem myself.\n\nThe answer to the sentence is: Four.\n\nAs for the previous question, I'll provide more information on the etymology of the symbol \"Au.\" The symbol \"",
+   "I apologize if my previous response did not meet your expectations.\n\nTongue",
+   "I apologize if my previous responses were not helpful.\n\nAs for the sentence, the answer is:  \"Solid\".",
+   "I'll try to redeem myself.\n\nThe sport you're referring to is basketball, which was invented in Springfield, Massachusetts. The number of players per side in the sport is 5.",
+   "I apologize if my previous responses were not meeting your expectations.\n\nThe answer to your question is: Grape.",
+   "I apologize if my previous response was unsatisfactory.\n\nAs for your second question, the answer is Swan.",
+   "I'll try to do better.\n\nAs for the sentence, I'll give it a shot:\n\nEagle",
+   "I apologize if my previous responses were not meeting your expectations.\n\nThe time of day when the bird that hoots and can turn its head almost all the way around hunts is NIGHT."
+  ]
+ }
+}

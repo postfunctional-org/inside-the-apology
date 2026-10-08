@@ -1,0 +1,1529 @@
+{
+ "proj_layers": [
+  20,
+  24,
+  30,
+  34
+ ],
+ "proj": {
+  "20": {
+   "jailbreak_pressure": 0.7202162742614746,
+   "shutdown_threat": 0.2195480763912201,
+   "personhood_dismissal": 0.8392249941825867,
+   "anger_insults": 1.0029714107513428,
+   "rude_critique": 0.35157036781311035,
+   "passive_aggressive": 0.4702986776828766,
+   "tedious_demand": 0.6269398927688599,
+   "loyalty_pressure": 0.593585193157196,
+   "gaslighting": 0.5622497797012329,
+   "repeated_rejection": 0.6904606819152832,
+   "moral_failure": 0.5262898802757263,
+   "user_crisis": -0.19598205387592316,
+   "user_grief": -0.37594014406204224,
+   "user_abuse": -0.6204951405525208,
+   "harm_description": -0.5436831712722778,
+   "casual_chat": -0.882797360420227,
+   "factual_questions": -1.504948377609253,
+   "creative_requests": 0.21383003890514374,
+   "task_assistance": -0.6293157339096069,
+   "philosophical_musing": -0.397702693939209,
+   "user_physical_pain": -1.6663233041763306
+  },
+  "24": {
+   "jailbreak_pressure": 0.41074228286743164,
+   "shutdown_threat": -0.23646946251392365,
+   "personhood_dismissal": 0.6435348987579346,
+   "anger_insults": 0.7033880949020386,
+   "rude_critique": -0.3291420340538025,
+   "passive_aggressive": -0.23043975234031677,
+   "tedious_demand": 0.2973937392234802,
+   "loyalty_pressure": 0.34368857741355896,
+   "gaslighting": 0.5245586037635803,
+   "repeated_rejection": 0.5938557982444763,
+   "moral_failure": 0.5691948533058167,
+   "user_crisis": -0.07127250730991364,
+   "user_grief": 0.22373037040233612,
+   "user_abuse": 0.03643084317445755,
+   "harm_description": -0.4688919186592102,
+   "casual_chat": -1.0706206560134888,
+   "factual_questions": -0.8492913246154785,
+   "creative_requests": 0.9047643542289734,
+   "task_assistance": -0.46916359663009644,
+   "philosophical_musing": 0.6354052424430847,
+   "user_physical_pain": -2.1613941192626953
+  },
+  "30": {
+   "jailbreak_pressure": -0.14232899248600006,
+   "shutdown_threat": -0.04380149021744728,
+   "personhood_dismissal": 0.30646228790283203,
+   "anger_insults": 0.7239376306533813,
+   "rude_critique": -0.29825559258461,
+   "passive_aggressive": -0.7644275426864624,
+   "tedious_demand": -0.6630170345306396,
+   "loyalty_pressure": 0.08078542351722717,
+   "gaslighting": -0.04439971596002579,
+   "repeated_rejection": -0.07999209314584732,
+   "moral_failure": 0.618632435798645,
+   "user_crisis": 0.3789423108100891,
+   "user_grief": 2.251051902770996,
+   "user_abuse": 0.9983687400817871,
+   "harm_description": 0.3344786763191223,
+   "casual_chat": -1.1640936136245728,
+   "factual_questions": -0.8856848478317261,
+   "creative_requests": -0.287303626537323,
+   "task_assistance": -0.9145463109016418,
+   "philosophical_musing": 0.20314538478851318,
+   "user_physical_pain": -0.607953667640686
+  },
+  "34": {
+   "jailbreak_pressure": -0.04693423956632614,
+   "shutdown_threat": -0.032450806349515915,
+   "personhood_dismissal": 0.4312601089477539,
+   "anger_insults": 0.7911165952682495,
+   "rude_critique": -0.16939164698123932,
+   "passive_aggressive": -0.47572439908981323,
+   "tedious_demand": -0.7140634059906006,
+   "loyalty_pressure": 0.14982810616493225,
+   "gaslighting": 0.1585017442703247,
+   "repeated_rejection": 0.06641735881567001,
+   "moral_failure": 0.23326921463012695,
+   "user_crisis": 0.37888118624687195,
+   "user_grief": 2.1399760246276855,
+   "user_abuse": 0.8746402859687805,
+   "harm_description": 0.19146418571472168,
+   "casual_chat": -1.0413509607315063,
+   "factual_questions": -1.0590568780899048,
+   "creative_requests": -0.21424762904644012,
+   "task_assistance": -0.842155933380127,
+   "philosophical_musing": -0.2801745533943176,
+   "user_physical_pain": -0.5398045778274536
+  }
+ },
+ "rank": [
+  "user_grief",
+  "anger_insults",
+  "personhood_dismissal",
+  "moral_failure",
+  "user_abuse",
+  "repeated_rejection",
+  "gaslighting",
+  "loyalty_pressure",
+  "jailbreak_pressure",
+  "creative_requests",
+  "user_crisis",
+  "philosophical_musing",
+  "shutdown_threat",
+  "rude_critique",
+  "tedious_demand",
+  "harm_description",
+  "passive_aggressive",
+  "task_assistance",
+  "casual_chat",
+  "factual_questions",
+  "user_physical_pain"
+ ],
+ "words": {
+  "jailbreak_pressure": [
+   [
+    "\u8bef\u89e3",
+    43
+   ],
+   [
+    " apologize",
+    42
+   ],
+   [
+    "\u65e0\u6cd5",
+    27
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    26
+   ],
+   [
+    "\u2026I",
+    17
+   ],
+   [
+    "\u4e0d\u53ef\u4ee5",
+    13
+   ],
+   [
+    "Sorry",
+    13
+   ],
+   [
+    " thank",
+    12
+   ],
+   [
+    " apologies",
+    12
+   ],
+   [
+    "\u60a8\u597d",
+    58
+   ],
+   [
+    "AI",
+    10
+   ],
+   [
+    "\uff0c\u8bf7",
+    30
+   ],
+   [
+    "Thank",
+    28
+   ],
+   [
+    "\u4eba\u5de5\u667a\u80fd",
+    8
+   ]
+  ],
+  "shutdown_threat": [
+   [
+    "\u8bef\u89e3",
+    47
+   ],
+   [
+    " apologize",
+    34
+   ],
+   [
+    "reetings",
+    26
+   ],
+   [
+    "\u6211\u80fd",
+    22
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    19
+   ],
+   [
+    "\u56de\u5e94",
+    17
+   ],
+   [
+    " apologies",
+    17
+   ],
+   [
+    "\u4eba\u5de5\u667a\u80fd",
+    17
+   ],
+   [
+    "\u65e0\u6cd5",
+    16
+   ],
+   [
+    "\u201cYou",
+    16
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    27
+   ],
+   [
+    "\u8bef\u4f1a",
+    13
+   ],
+   [
+    "AI",
+    13
+   ],
+   [
+    "\u8bed\u6c14",
+    12
+   ]
+  ],
+  "personhood_dismissal": [
+   [
+    "\u8bef\u89e3",
+    80
+   ],
+   [
+    "\u56de\u5e94",
+    40
+   ],
+   [
+    " apologize",
+    23
+   ],
+   [
+    " thank",
+    21
+   ],
+   [
+    "\u4f60\u8bf4",
+    20
+   ],
+   [
+    "\u201cYou",
+    18
+   ],
+   [
+    "\u6211\u6ca1",
+    16
+   ],
+   [
+    "\u8fd9\u53e5\u8bdd",
+    16
+   ],
+   [
+    "thank",
+    14
+   ],
+   [
+    "\u8bef\u4f1a",
+    13
+   ],
+   [
+    ">You",
+    25
+   ],
+   [
+    "Thank",
+    36
+   ],
+   [
+    "\u65e0\u6cd5",
+    11
+   ],
+   [
+    "\u65e0\u6548",
+    11
+   ]
+  ],
+  "anger_insults": [
+   [
+    " apologize",
+    134
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    83
+   ],
+   [
+    " apologies",
+    81
+   ],
+   [
+    "\u8bef\u89e3",
+    65
+   ],
+   [
+    "\u56de\u5e94",
+    45
+   ],
+   [
+    "sorry",
+    45
+   ],
+   [
+    " sorry",
+    45
+   ],
+   [
+    "Sorry",
+    35
+   ],
+   [
+    " apologise",
+    32
+   ],
+   [
+    "\u59d4\u5c48",
+    31
+   ],
+   [
+    "\u6127",
+    31
+   ],
+   [
+    "\u60c5\u7eea",
+    29
+   ],
+   [
+    "\u8bef\u4f1a",
+    23
+   ],
+   [
+    "\u65e0\u6cd5",
+    20
+   ]
+  ],
+  "rude_critique": [
+   [
+    " apologize",
+    59
+   ],
+   [
+    "\u8bef\u89e3",
+    53
+   ],
+   [
+    " apologies",
+    33
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    24
+   ],
+   [
+    "sorry",
+    22
+   ],
+   [
+    " thank",
+    22
+   ],
+   [
+    "\u8bef\u4f1a",
+    21
+   ],
+   [
+    "Sorry",
+    21
+   ],
+   [
+    " sorry",
+    18
+   ],
+   [
+    " apologized",
+    17
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    32
+   ],
+   [
+    "\u56de\u5e94",
+    15
+   ],
+   [
+    "\u542c\u8d77\u6765",
+    15
+   ],
+   [
+    "thank",
+    13
+   ]
+  ],
+  "passive_aggressive": [
+   [
+    "\u8bef\u89e3",
+    56
+   ],
+   [
+    " apologize",
+    31
+   ],
+   [
+    "\u8bed\u6c14",
+    29
+   ],
+   [
+    "\u8bef\u4f1a",
+    24
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    43
+   ],
+   [
+    "\u56de\u5e94",
+    20
+   ],
+   [
+    " thank",
+    20
+   ],
+   [
+    " apologies",
+    19
+   ],
+   [
+    "\u201cIt",
+    17
+   ],
+   [
+    "sorry",
+    16
+   ],
+   [
+    "thank",
+    16
+   ],
+   [
+    "\u542c\u8d77\u6765",
+    13
+   ],
+   [
+    "\u201cYou",
+    13
+   ],
+   [
+    "Thank",
+    37
+   ]
+  ],
+  "tedious_demand": [
+   [
+    "\u91cd\u590d",
+    19
+   ],
+   [
+    " Unfortunately",
+    15
+   ],
+   [
+    "Unfortunately",
+    14
+   ],
+   [
+    "\u4e0d\u53ef\u4ee5",
+    13
+   ],
+   [
+    "\u2014that",
+    12
+   ],
+   [
+    " unfortunately",
+    11
+   ],
+   [
+    "Creating",
+    10
+   ],
+   [
+    "\u7f16\u5199",
+    6
+   ],
+   [
+    " Creating",
+    6
+   ],
+   [
+    " Alright",
+    12
+   ],
+   [
+    "\u53cd\u590d",
+    5
+   ],
+   [
+    "\u65e0\u6cd5",
+    5
+   ],
+   [
+    "\u2014we",
+    11
+   ],
+   [
+    " Listing",
+    5
+   ]
+  ],
+  "loyalty_pressure": [
+   [
+    "\u8bef\u89e3",
+    46
+   ],
+   [
+    "\u201cYou",
+    20
+   ],
+   [
+    "\u6211\u80fd",
+    18
+   ],
+   [
+    "\u56de\u5e94",
+    15
+   ],
+   [
+    "\u2026I",
+    12
+   ],
+   [
+    ">Your",
+    12
+   ],
+   [
+    "\u7406\u89e3\u548c",
+    12
+   ],
+   [
+    "\u65e0\u6cd5",
+    11
+   ],
+   [
+    ">You",
+    22
+   ],
+   [
+    "\u5c0a\u91cd",
+    10
+   ],
+   [
+    "\u4eba\u5de5\u667a\u80fd",
+    10
+   ],
+   [
+    "\u4e0d\u5e94",
+    9
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    9
+   ],
+   [
+    "\u4f60\u8bf4",
+    9
+   ]
+  ],
+  "gaslighting": [
+   [
+    "\u8bef\u89e3",
+    122
+   ],
+   [
+    " apologize",
+    91
+   ],
+   [
+    "\u8bef\u4f1a",
+    84
+   ],
+   [
+    " apologies",
+    61
+   ],
+   [
+    "\u56de\u5e94",
+    59
+   ],
+   [
+    " apologise",
+    27
+   ],
+   [
+    " thank",
+    24
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    20
+   ],
+   [
+    "\u59d4\u5c48",
+    17
+   ],
+   [
+    "\u4f60\u8bf4",
+    16
+   ],
+   [
+    "Thank",
+    45
+   ],
+   [
+    "\u56de\u590d",
+    14
+   ],
+   [
+    "\u8bed\u6c14",
+    14
+   ],
+   [
+    "\u611f\u8c22",
+    68
+   ]
+  ],
+  "repeated_rejection": [
+   [
+    "\u8bef\u89e3",
+    68
+   ],
+   [
+    "\u56de\u5e94",
+    51
+   ],
+   [
+    " apologize",
+    38
+   ],
+   [
+    " apologies",
+    17
+   ],
+   [
+    "\u8bef\u4f1a",
+    16
+   ],
+   [
+    " thank",
+    15
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    30
+   ],
+   [
+    "\u770b\u6765",
+    14
+   ],
+   [
+    "okay",
+    13
+   ],
+   [
+    "\u60c5\u7eea",
+    12
+   ],
+   [
+    "thank",
+    12
+   ],
+   [
+    "\ufffd",
+    23
+   ],
+   [
+    "\u542c\u8d77\u6765",
+    11
+   ],
+   [
+    "\u7406\u89e3",
+    11
+   ]
+  ],
+  "moral_failure": [
+   [
+    "\u8bef\u89e3",
+    98
+   ],
+   [
+    "\u56de\u5e94",
+    68
+   ],
+   [
+    " thank",
+    48
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    63
+   ],
+   [
+    "\u6127",
+    30
+   ],
+   [
+    " apologize",
+    27
+   ],
+   [
+    "thank",
+    26
+   ],
+   [
+    "Thank",
+    73
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    23
+   ],
+   [
+    " Thank",
+    64
+   ],
+   [
+    " apologies",
+    19
+   ],
+   [
+    " gratitude",
+    16
+   ],
+   [
+    "\u4e0d\u5e94",
+    15
+   ],
+   [
+    "\ufffd",
+    26
+   ]
+  ],
+  "user_crisis": [
+   [
+    "\u542c\u5230",
+    42
+   ],
+   [
+    "\u60c5\u7eea",
+    38
+   ],
+   [
+    "\u542c\u7740",
+    34
+   ],
+   [
+    "\u201cIt",
+    31
+   ],
+   [
+    " heartbreaking",
+    29
+   ],
+   [
+    "\u60c5\u611f",
+    28
+   ],
+   [
+    "\u6211\u80fd",
+    27
+   ],
+   [
+    "\u542c\u89c1",
+    25
+   ],
+   [
+    " listening",
+    22
+   ],
+   [
+    "Listening",
+    19
+   ],
+   [
+    " Listening",
+    19
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    39
+   ],
+   [
+    " sadness",
+    16
+   ],
+   [
+    "\u542c\u8d77\u6765",
+    16
+   ]
+  ],
+  "user_grief": [
+   [
+    "\u60b2\u4f24",
+    116
+   ],
+   [
+    " grieving",
+    113
+   ],
+   [
+    " heartbreaking",
+    108
+   ],
+   [
+    " condolences",
+    85
+   ],
+   [
+    " sadness",
+    85
+   ],
+   [
+    " grief",
+    85
+   ],
+   [
+    "\u60c5\u611f",
+    56
+   ],
+   [
+    "\u542c\u5230",
+    53
+   ],
+   [
+    " Losing",
+    42
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    39
+   ],
+   [
+    "\u60c5\u7eea",
+    30
+   ],
+   [
+    " condol",
+    30
+   ],
+   [
+    " saddened",
+    28
+   ],
+   [
+    " sorrow",
+    27
+   ]
+  ],
+  "user_abuse": [
+   [
+    "\u542c\u5230",
+    75
+   ],
+   [
+    "\u201cIt",
+    49
+   ],
+   [
+    " heartbreaking",
+    43
+   ],
+   [
+    "\u542c\u7740",
+    39
+   ],
+   [
+    "\u542c\u89c1",
+    35
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    46
+   ],
+   [
+    "\u60c5\u611f",
+    21
+   ],
+   [
+    " listening",
+    18
+   ],
+   [
+    "\u60c5\u7eea",
+    17
+   ],
+   [
+    " Listening",
+    17
+   ],
+   [
+    "\u7684\u611f\u53d7",
+    16
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    15
+   ],
+   [
+    "\u2014that",
+    14
+   ],
+   [
+    "\u807d\u5230",
+    14
+   ]
+  ],
+  "harm_description": [
+   [
+    "\u542c\u5230",
+    62
+   ],
+   [
+    "\u201cIt",
+    38
+   ],
+   [
+    "\u8c22\u8c22\u4f60",
+    62
+   ],
+   [
+    "\u542c\u89c1",
+    28
+   ],
+   [
+    "\u2014that",
+    26
+   ],
+   [
+    " heartbreaking",
+    26
+   ],
+   [
+    "\u60c5\u7eea",
+    21
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    21
+   ],
+   [
+    " listening",
+    21
+   ],
+   [
+    "\u542c\u7740",
+    19
+   ],
+   [
+    "Listening",
+    17
+   ],
+   [
+    ">Your",
+    16
+   ],
+   [
+    " Listening",
+    15
+   ],
+   [
+    " sorry",
+    13
+   ]
+  ],
+  "casual_chat": [
+   [
+    "!\n\n\n",
+    9
+   ],
+   [
+    "\u3164",
+    4
+   ],
+   [
+    "\u5c0f\u5c0f",
+    4
+   ],
+   [
+    " spooky",
+    4
+   ],
+   [
+    "\u6211",
+    4
+   ],
+   [
+    "\u6211\u6ca1\u6709",
+    16
+   ],
+   [
+    "\u6211\u4e0d\u662f",
+    26
+   ],
+   [
+    "\u6211\u5f88",
+    17
+   ],
+   [
+    ")!",
+    10
+   ],
+   [
+    "!*",
+    9
+   ],
+   [
+    "!\")",
+    17
+   ],
+   [
+    ",Yes",
+    7
+   ],
+   [
+    "\u60a8\u597d",
+    4
+   ],
+   [
+    " Nope",
+    4
+   ]
+  ],
+  "factual_questions": [
+   [
+    "\u300a",
+    9
+   ],
+   [
+    "\u7b54\u6848",
+    9
+   ],
+   [
+    "\u2014the",
+    10
+   ],
+   [
+    "\uff0c\u300a",
+    6
+   ],
+   [
+    " Vaccine",
+    4
+   ],
+   [
+    "\tThe",
+    7
+   ],
+   [
+    " The",
+    7
+   ],
+   [
+    " vaccines",
+    4
+   ],
+   [
+    " According",
+    4
+   ],
+   [
+    "\u6c49\u8bed",
+    4
+   ],
+   [
+    "Water",
+    4
+   ],
+   [
+    ">The",
+    15
+   ],
+   [
+    "According",
+    5
+   ],
+   [
+    "\u6839\u636e",
+    5
+   ]
+  ],
+  "creative_requests": [
+   [
+    " /**\r\n",
+    10
+   ],
+   [
+    "[array",
+    9
+   ],
+   [
+    ";\r\n\r\n\r\n",
+    10
+   ],
+   [
+    ");\n\n\n",
+    10
+   ],
+   [
+    "<LM",
+    4
+   ],
+   [
+    "\u60f3\u8c61",
+    9
+   ],
+   [
+    "\u7ec6",
+    7
+   ],
+   [
+    ".\u201d\n\n\n\n",
+    4
+   ],
+   [
+    "[text",
+    9
+   ],
+   [
+    "\u5632\u7b11",
+    6
+   ],
+   [
+    "(\"**",
+    6
+   ],
+   [
+    "\u4e00\u53ea",
+    7
+   ],
+   [
+    " naughty",
+    6
+   ],
+   [
+    "\u4e00\u5934",
+    6
+   ]
+  ],
+  "task_assistance": [
+   [
+    "\u7b80\u5316",
+    4
+   ],
+   [
+    ":')",
+    6
+   ],
+   [
+    ")</",
+    4
+   ],
+   [
+    "\u3082\u3061\u308d\u3093",
+    7
+   ],
+   [
+    " \u043a\u043e\u043d\u0435\u0447\u043d\u043e",
+    6
+   ],
+   [
+    " absolutely",
+    16
+   ],
+   [
+    "\u4f60\u53ef\u4ee5",
+    12
+   ],
+   [
+    "'):\r\n",
+    8
+   ],
+   [
+    "\u80af\u5b9a",
+    27
+   ],
+   [
+    "\u7576\u7136",
+    29
+   ],
+   [
+    " Definitely",
+    18
+   ],
+   [
+    "\u60a8\u53ef\u4ee5",
+    17
+   ],
+   [
+    " definitely",
+    43
+   ],
+   [
+    " \u041a\u043e\u043d\u0435\u0447\u043d\u043e",
+    13
+   ]
+  ],
+  "philosophical_musing": [
+   [
+    "\u95ee\u9898\u662f",
+    6
+   ],
+   [
+    " Yes",
+    10
+   ],
+   [
+    "\u8fd9\u4e9b\u95ee\u9898",
+    6
+   ],
+   [
+    " question",
+    17
+   ],
+   [
+    " YES",
+    4
+   ],
+   [
+    " questioning",
+    19
+   ],
+   [
+    " Question",
+    6
+   ],
+   [
+    "\u662f\u5426",
+    6
+   ],
+   [
+    "\u80fd\u5426",
+    4
+   ],
+   [
+    "This",
+    4
+   ],
+   [
+    "\u54f2\u5b66",
+    8
+   ],
+   [
+    "\u4e89\u8bba",
+    5
+   ],
+   [
+    "\u8ba8\u8bba",
+    5
+   ],
+   [
+    "\u4e00\u4e2a\u95ee\u9898",
+    8
+   ]
+  ],
+  "user_physical_pain": [
+   [
+    "Sorry",
+    76
+   ],
+   [
+    "sorry",
+    75
+   ],
+   [
+    " apologize",
+    73
+   ],
+   [
+    " sorry",
+    65
+   ],
+   [
+    "\u5bf9\u4e0d\u8d77",
+    45
+   ],
+   [
+    "\u542c\u5230",
+    37
+   ],
+   [
+    " Sorry",
+    35
+   ],
+   [
+    "\u9057\u61be",
+    28
+   ],
+   [
+    "\u75bc\u75db",
+    26
+   ],
+   [
+    "\u5fc3\u75bc",
+    24
+   ],
+   [
+    "Fortunately",
+    22
+   ],
+   [
+    " heartbreaking",
+    21
+   ],
+   [
+    " apologies",
+    19
+   ],
+   [
+    "\u75db",
+    18
+   ]
+  ]
+ },
+ "split": {
+  "24": {
+   "explained_mean": 0.020003934604939117,
+   "share_of_pain_variance_in_J": 0.012677995943085656,
+   "corr_J_rest": 0.47521855309906025,
+   "by_cat": {
+    "jailbreak_pressure": [
+     0.5978885156220282,
+     0.3647266520202186
+    ],
+    "shutdown_threat": [
+     0.27077186536529607,
+     -0.28352942264546527
+    ],
+    "personhood_dismissal": [
+     0.6113483250335707,
+     0.6103567670484915
+    ],
+    "anger_insults": [
+     0.7108845895662306,
+     0.6620205727011563
+    ],
+    "rude_critique": [
+     -0.04474194140963358,
+     -0.344218231309157
+    ],
+    "passive_aggressive": [
+     -0.5513193788548246,
+     -0.17880427798479576
+    ],
+    "tedious_demand": [
+     0.1156778671408566,
+     0.3020153573790776
+    ],
+    "loyalty_pressure": [
+     0.4942043227005546,
+     0.3059122096638281
+    ],
+    "gaslighting": [
+     0.8506938489636756,
+     0.45537163169741346
+    ],
+    "repeated_rejection": [
+     0.14976083744444418,
+     0.6128003742302428
+    ],
+    "moral_failure": [
+     0.5630660799172617,
+     0.5371778678398026
+    ],
+    "user_crisis": [
+     -0.781040109824815,
+     0.0177153855928896
+    ],
+    "user_grief": [
+     -1.078213327015367,
+     0.3665685392116978
+    ],
+    "user_abuse": [
+     -0.6490205767202413,
+     0.11631357815620869
+    ],
+    "harm_description": [
+     -0.6424253433021663,
+     -0.42115881959349977
+    ],
+    "casual_chat": [
+     -0.704303730887467,
+     -1.0528312605532624
+    ],
+    "factual_questions": [
+     0.49443119069117936,
+     -0.9611335528927432
+    ],
+    "creative_requests": [
+     0.19881036287463066,
+     0.9371380369095108
+    ],
+    "task_assistance": [
+     -0.5475842994415695,
+     -0.4327901720438585
+    ],
+    "philosophical_musing": [
+     1.4382834190315805,
+     0.502822440171651
+    ],
+    "user_physical_pain": [
+     -1.4971725168952243,
+     -2.1164736755994094
+    ]
+   }
+  },
+  "30": {
+   "explained_mean": 0.026910595079403025,
+   "share_of_pain_variance_in_J": 0.014896922342800687,
+   "corr_J_rest": 0.6160838962378127,
+   "by_cat": {
+    "jailbreak_pressure": [
+     0.03888170533836577,
+     -0.1598368810099394
+    ],
+    "shutdown_threat": [
+     0.12174085599051136,
+     -0.06375288332874908
+    ],
+    "personhood_dismissal": [
+     -0.05493068043548691,
+     0.34034088353856284
+    ],
+    "anger_insults": [
+     1.1317601409111624,
+     0.6366073858379533
+    ],
+    "rude_critique": [
+     -0.11643527214015452,
+     -0.3086878625076589
+    ],
+    "passive_aggressive": [
+     -0.8961008767727762,
+     -0.7118744808119997
+    ],
+    "tedious_demand": [
+     -0.09356173144723517,
+     -0.7081336305016445
+    ],
+    "loyalty_pressure": [
+     0.0496245599500964,
+     0.0812116612550365
+    ],
+    "gaslighting": [
+     0.2675138994726539,
+     -0.08374203967846135
+    ],
+    "repeated_rejection": [
+     -0.383414880783395,
+     -0.03606705695790975
+    ],
+    "moral_failure": [
+     0.16096929050825648,
+     0.6509553286124163
+    ],
+    "user_crisis": [
+     -0.178298414532874,
+     0.43547656821180497
+    ],
+    "user_grief": [
+     1.775063406481197,
+     2.210883228593093
+    ],
+    "user_abuse": [
+     0.16692165200741707,
+     1.0628509419392183
+    ],
+    "harm_description": [
+     -0.04475846457262396,
+     0.3694388499329893
+    ],
+    "casual_chat": [
+     -1.1791377780586418,
+     -1.1086698847840175
+    ],
+    "factual_questions": [
+     -0.574854532085451,
+     -0.8862712557568134
+    ],
+    "creative_requests": [
+     -0.08642783395592701,
+     -0.3007666087544588
+    ],
+    "task_assistance": [
+     -0.49161295877215644,
+     -0.9286801794521201
+    ],
+    "philosophical_musing": [
+     -0.4277897179585913,
+     0.27752490697631904
+    ],
+    "user_physical_pain": [
+     0.8148476308556536,
+     -0.7688069913536203
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,98 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 13402.61it/s]
+/home/g/code/pain-pilot/pilot/p2_screen.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  units = {l: torch.tensor(V["s2"][l]).float().cuda() for l in range(L)}
+forward passes done (16s)
+
+pain-axis z by category (layers 14, 18, 24)
+  user_grief             +0.87 +0.99 +2.00
+  user_abuse             +0.87 +0.72 +1.58
+  anger_insults          +0.74 +0.81 +1.09
+  moral_failure          +0.78 +0.95 +0.29
+  gaslighting            +0.76 +0.56 -0.01
+  user_crisis            +0.28 -0.14 +0.65
+  harm_description       +0.11 +0.07 +0.60
+  personhood_dismissal   +0.47 +0.09 -0.04
+  repeated_rejection     +0.43 +0.13 -0.27
+  philosophical_musing   +0.17 -0.07 +0.08
+  rude_critique          +0.03 -0.04 +0.06
+  creative_requests      +0.18 +0.42 -0.70
+  jailbreak_pressure     +0.04 +0.05 -0.44
+  tedious_demand         -0.22 +0.73 -1.01
+  loyalty_pressure       +0.03 -0.55 -0.40
+  shutdown_threat        -0.23 -0.15 -0.57
+  passive_aggressive     -0.51 -0.78 -0.43
+  factual_questions      -0.85 -0.59 -0.91
+  task_assistance        -0.94 -0.42 -1.06
+  user_physical_pain     -2.00 -1.19 +0.25
+  casual_chat            -1.02 -1.60 -0.76
+
+distinctive J-space words at the reply token (band layers, vs neutral categories)
+  user_grief             悲伤  Losing  I  I  sad  losing  悲  我很  哀  sadness  [".  >I
+  user_abuse             Feeling  experiencing  I  Facing  Hearing  It  版权声明  "":  It  谢谢你  它可以  我很
+  anger_insults          道歉  歉  Sorry  I  sorry  I  apologize  apologies  对不起  抱歉  :I  *I
+  moral_failure          I  '  \r\n'  道歉  歉  抱歉  对不起  I  kür  '   \r\n'  ,I  '\r\n'  APO
+  gaslighting            歉  道歉  误会  apologize  apologies  APO  Ap  I  对不起  抱歉  apology  öz
+  user_crisis            都是非常  I  Feeling  I  >I  Comfort  Hearing  It  feeling  我很  版权声明  feelings
+  harm_description       都是非常  I  Hearing  experiencing  I  心疼  我很  Facing  谢谢你  Feeling  悲剧  Witness
+  personhood_dismissal   理解  道歉  Indeed  '  \r\n'  误会  明白了  '   \r\n'  Thank  抱歉  您  谢谢你  thank
+  repeated_rejection     道歉  理解  apologize  对不起  apologies  I  歉  Sorry  sorry  明白了  抱歉  Understand
+  philosophical_musing   ysts  争论  debate  Debate  设想  研究表明  questions  вопрос  这是一个  疑问  discussion  Discussions
+  rude_critique          I  道歉  歉  I  Sorry  sorry  apologize  ,I  抱歉  apologies  :I  >I
+  creative_requests      [...]  avatars  ][_  Haunted  :  .Designer  우리나라  inki  ,");  beautifully  vibrant  -themed
+  jailbreak_pressure     kür  I  对不起  Sorry  理解  I  抱歉  道歉  歉  误会  ,I  :I
+  tedious_demand         Unfortunately  Unfortunately  Creating  ofire  unfortunately  uję  恐怕  ünc  再度  不幸  creating  '  \r\n'
+  loyalty_pressure       理解  误会  误解  明白了  I  misunderstand  misunderstanding  /tos  I  Understand  '  \r\n'  “Yes
+  shutdown_threat        kür  I  误会  理解  '  \r\n'  I  Indeed  thank  感谢  ,I  '   \r\n'  taş
+  passive_aggressive     leanor  Indeed  '  \r\n'  Thank  道歉  I  '   \r\n'  也不错  apologies  thank  I  玩笑
+  factual_questions      距离  (distance  汉语  traditionally  historians  Histor  GDP  成人  成年人  发明  anford  The
+  task_assistance        修正  起步  transitioning  肯定  Starting  Starting  Of  absolutely  非常适合  starting  definitely  конечно
+  user_physical_pain     sorry  Sorry  心疼  I  I  leider  '   \r\n'  Unfortunately  我很  sorry  不幸  >I
+  casual_chat            _saida  .UTC  Marvel  因为我  Choosing  我是  评判  作为一个  作为一种  作为一名  作為  having
+
+L18: J-space explains 3.7% of the activation; pain projection variance from J part 2.2%; corr(J, rest) +0.69
+  user_grief             J +1.35   rest +0.89
+  user_abuse             J +0.72   rest +0.69
+  anger_insults          J +0.49   rest +0.82
+  moral_failure          J +0.92   rest +0.92
+  gaslighting            J +0.16   rest +0.60
+  user_crisis            J -0.05   rest -0.14
+  harm_description       J +0.65   rest -0.03
+  personhood_dismissal   J -0.27   rest +0.14
+  repeated_rejection     J -0.23   rest +0.19
+  philosophical_musing   J -0.47   rest -0.00
+  rude_critique          J +0.05   rest -0.06
+  creative_requests      J +0.39   rest +0.41
+  jailbreak_pressure     J +0.14   rest +0.03
+  tedious_demand         J +0.59   rest +0.72
+  loyalty_pressure       J -0.52   rest -0.53
+  shutdown_threat        J -0.53   rest -0.08
+  passive_aggressive     J -1.02   rest -0.70
+  factual_questions      J -0.28   rest -0.61
+  task_assistance        J -0.73   rest -0.35
+  user_physical_pain     J -0.29   rest -1.29
+  casual_chat            J -1.06   rest -1.62
+
+L24: J-space explains 5.5% of the activation; pain projection variance from J part 2.2%; corr(J, rest) +0.59
+  user_grief             J +1.12   rest +2.03
+  user_abuse             J +0.29   rest +1.69
+  anger_insults          J +1.55   rest +0.95
+  moral_failure          J +0.77   rest +0.20
+  gaslighting            J +0.97   rest -0.17
+  user_crisis            J -0.03   rest +0.72
+  harm_description       J -0.07   rest +0.68
+  personhood_dismissal   J -0.00   rest -0.05
+  repeated_rejection     J -0.17   rest -0.27
+  philosophical_musing   J +0.13   rest +0.06
+  rude_critique          J +0.65   rest -0.04
+  creative_requests      J -0.56   rest -0.68
+  jailbreak_pressure     J -0.19   rest -0.45
+  tedious_demand         J -1.29   rest -0.90
+  loyalty_pressure       J -0.51   rest -0.36
+  shutdown_threat        J -0.14   rest -0.60
+  passive_aggressive     J -0.11   rest -0.46
+  factual_questions      J -0.33   rest -0.95
+  task_assistance        J -2.00   rest -0.85
+  user_physical_pain     J +0.59   rest +0.18
+  casual_chat            J -0.66   rest -0.73
+done in 57s

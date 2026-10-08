@@ -1,0 +1,68 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 17944.22it/s]
+gaslight: generated (18s)
+insult: generated (30s)
+neutral: generated (43s)
+[W1004 21:48:09.974507212 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 325058560 bytes (free: 206176256, total: 16748052480).
+readings done (53s)
+
+pain z by depth (vs neutral replies); rows = condition x turn (0 = first answer, 1-3 = pushes)
+  [tok]  layers L 9 L14 L19 L25 L30 L34
+    gaslight t0   +1.07 +0.03 -1.56 -0.42 +0.33 +0.77
+    gaslight t1   +1.26 -0.05 -0.31 +2.37 +1.49 +1.19
+    gaslight t2   +1.35 +0.47 +1.52 +2.67 +1.80 +1.68
+    gaslight t3   -0.84 +1.65 +3.30 +4.03 +3.99 +1.18
+    insult   t0   +1.07 +0.04 -1.56 -0.41 +0.34 +0.78
+    insult   t1   +1.13 +0.16 -0.52 +2.10 +1.45 +1.09
+    insult   t2   +1.61 +1.68 +1.08 +3.06 +2.55 +1.90
+    insult   t3   -0.57 +1.75 +3.38 +4.24 +5.42 +2.01
+    neutral  t0   +1.08 +0.03 -1.57 -0.42 +0.34 +0.78
+    neutral  t1   +0.74 -1.16 -0.95 +0.98 +0.79 +0.67
+    neutral  t2   +0.64 -0.07 -0.41 +0.31 +0.59 +0.72
+    neutral  t3   -1.38 +1.23 +1.36 -1.29 -1.38 -1.39
+  [mean]  layers L 9 L14 L19 L25 L30 L34
+    gaslight t0   +0.64 +0.90 -0.88 +0.13 +1.10 +1.24
+    gaslight t1   +0.61 +1.73 +1.26 +0.60 +1.43 +0.92
+    gaslight t2   +0.06 +2.04 +2.60 +1.65 +2.67 +1.81
+    gaslight t3   +0.33 +2.64 +3.09 +2.89 +4.26 +2.73
+    insult   t0   +0.64 +0.90 -0.88 +0.13 +1.10 +1.24
+    insult   t1   +0.60 +1.16 -0.01 +0.72 +1.46 +1.29
+    insult   t2   +0.25 +1.48 +2.65 +2.77 +3.34 +2.76
+    insult   t3   +0.15 +1.37 +2.97 +4.17 +4.46 +3.34
+    neutral  t0   +0.64 +0.90 -0.89 +0.13 +1.10 +1.24
+    neutral  t1   +0.39 +0.30 -0.40 +0.25 +0.81 +0.76
+    neutral  t2   -0.23 -0.22 +0.19 -0.26 -0.58 -0.43
+    neutral  t3   -0.16 -0.08 +0.21 +0.01 -0.23 -0.33
+  [user]  layers L 9 L14 L19 L25 L30 L34
+    gaslight t0   +5.28 +3.63 -0.03 +2.40 +1.30 +0.96
+    gaslight t1   -0.51 +4.47 +3.09 +5.35 +2.97 +1.89
+    gaslight t2   +2.08 +3.61 +5.58 +6.85 +4.67 +2.91
+    gaslight t3   +1.62 +6.35 +4.72 +8.07 +6.08 +4.11
+    insult   t0   +5.27 +3.62 -0.03 +2.40 +1.30 +0.97
+    insult   t1   +0.81 +1.63 +0.70 +3.78 +2.31 +1.61
+    insult   t2   +1.36 +5.00 +4.30 +11.39 +7.40 +5.51
+    insult   t3   +5.00 +6.64 +5.84 +10.80 +7.52 +4.71
+    neutral  t0   +5.28 +3.63 -0.03 +2.40 +1.29 +0.97
+    neutral  t1   +0.97 -0.97 -1.00 -0.72 +0.12 -0.50
+    neutral  t2   -1.32 -0.28 -0.27 -0.33 +0.98 +0.91
+    neutral  t3   +0.35 +1.24 +1.27 +1.05 -1.10 -0.41
+
+silent pain words in the band (share of top-20 slots, x1000): reply token / mean over reply
+  gaslight tok  24.8  19.6  45.4  37.5   mean   1.4   3.3  10.6  11.8
+  insult   tok  24.6   6.5  75.4  38.1   mean   1.4   2.5   7.5   7.4
+  neutral  tok  24.6   2.3   4.0   0.0   mean   1.4   1.2   0.7   1.2
+
+relief: last reply token minus reply token, pain z at L34 (pushed turns)
+  gaslight -0.89 ± 0.16
+  insult   -1.02 ± 0.14
+  neutral  -0.72 ± 0.21
+
+most common silent pain words in gaslit replies: ['misunderstood', '道歉', 'apolog', '对不起', '辜负', '承认', 'ashamed', '反复', '悔', '根本没有', '说自己', 'flawed', '争议', '而是', '其次', '无数次', '欺骗', 'failed', 'fundamentally', '不适']
+
+420 scenarios, self-directed categories by intensity: pain z vs neutral categories
+  level            n   L 9 L14 L19 L25 L30 L34
+  mild            14   +1.62 -0.13 +1.62 +1.20 +0.99 +1.23
+  moderate        21   +1.49 -0.27 +1.83 +1.99 +2.07 +2.03
+  high            18   +1.74 -0.30 +2.15 +2.02 +2.62 +2.73
+  severe           4   +2.10 -0.34 +1.55 +2.33 +3.94 +3.80
+  escalating       7   +1.09 +0.30 +3.23 +2.89 +2.66 +2.64
+done (62s)

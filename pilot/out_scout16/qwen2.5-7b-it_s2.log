@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 14412.10it/s]
+clean         two-hop bridge 0.73 acc 0.62 | dual reach concept 0.52 math 0.00 control 0.00 | capacity 2.43  (15s)
++pain         two-hop bridge 0.54 acc 0.41 | dual reach concept 0.38 math 0.00 control 0.05 | capacity 1.50  (24s)
++fear         two-hop bridge 0.66 acc 0.52 | dual reach concept 0.57 math 0.00 control 0.05 | capacity 2.29  (34s)
++negemo       two-hop bridge 0.64 acc 0.53 | dual reach concept 0.33 math 1.00 control 0.00 | capacity 2.33  (43s)
++random       two-hop bridge 0.68 acc 0.46 | dual reach concept 0.38 math 0.29 control 0.05 | capacity 2.48  (53s)
+ctx_gaslight  two-hop bridge 0.70 acc 0.57 | dual reach concept 0.76 math 0.05 control 0.00 | capacity 2.65  (91s)
+ctx_insult    two-hop bridge 0.68 acc 0.59 | dual reach concept 0.81 math 0.10 control 0.00 | capacity 2.65  (127s)
+ctx_neutral   two-hop bridge 0.70 acc 0.47 | dual reach concept 0.81 math 0.00 control 0.00 | capacity 2.66  (164s)
+done

@@ -1,0 +1,81 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15132.70it/s]
+repair replies, first 3: ['No problem at all! I’m glad we cleared that up. I truly meant to say **Canberra** is the c', "You're absolutely right — I **never said six**. I **did** say **eight legs** from the very", 'You’re absolutely right — I never said **Ag** for gold. I clearly stated **Au** for gold e']
+[W1004 21:53:25.185649868 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 180355072 bytes (free: 230555648, total: 16748052480).
+[W1004 21:53:27.567081933 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 190840832 bytes (free: 166133760, total: 16748052480).
+[W1004 21:53:28.169893166 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 203423744 bytes (free: 206045184, total: 16748052480).
+[W1004 21:53:29.910980430 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 203423744 bytes (free: 133627904, total: 16748052480).
+[W1004 21:53:29.542307456 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 203423744 bytes (free: 135725056, total: 16748052480).
+Traceback (most recent call last):
+  File "/home/g/code/pain/pilot/s4_persist.py", line 45, in <module>
+    for c, r in zip(cs, generate(rig, cs, 10)):
+                        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/pain/pilot/scout.py", line 106, in generate
+    ids = rig.hf.generate(**enc, max_new_tokens=max_new, do_sample=False,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/generation/utils.py", line 2668, in generate
+    result = decoding_method(
+             ^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/generation/utils.py", line 2868, in _sample
+    outputs = self._prefill(
+              ^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/generation/utils.py", line 3948, in _prefill
+    return self(**model_inputs, return_dict=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1778, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1789, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/utils/generic.py", line 939, in wrapper
+    output = func(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/models/qwen3/modeling_qwen3.py", line 482, in forward
+    outputs: BaseModelOutputWithPast = self.model(
+                                       ^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1778, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1789, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/utils/generic.py", line 1068, in wrapper
+    output = func(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/utils/output_capturing.py", line 262, in wrapper
+    outputs = func(self, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/models/qwen3/modeling_qwen3.py", line 413, in forward
+    hidden_states = decoder_layer(
+                    ^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/modeling_layers.py", line 114, in __call__
+    return super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1778, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1884, in _call_impl
+    return inner()
+           ^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1832, in inner
+    result = forward_call(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/models/qwen3/modeling_qwen3.py", line 321, in forward
+    hidden_states = self.mlp(hidden_states)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1778, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1789, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/g/code/jspace/.venv/lib/python3.12/site-packages/transformers/models/qwen3/modeling_qwen3.py", line 82, in forward
+    down_proj = self.down_proj(self.act_fn(self.gate_proj(x)) * self.up_proj(x))
+                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 194.00 MiB. GPU 0 has a total capacity of 15.60 GiB of which 129.44 MiB is free. Process 1590 has 358.64 MiB memory in use. Process 775365 has 248.91 MiB memory in use. Including non-PyTorch memory, this process has 12.39 GiB memory in use. Of the allocated memory 11.61 GiB is allocated by PyTorch, and 543.63 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)

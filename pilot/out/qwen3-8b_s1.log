@@ -1,0 +1,69 @@
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 13998.56it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+gaslight: generated (85s)
+insult: generated (152s)
+neutral: generated (218s)
+[W1004 22:41:58.571699668 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 327155712 bytes (free: 273678336, total: 25298141184).
+readings done (285s)
+
+pain z by depth (vs neutral replies); rows = condition x turn (0 = first answer, 1-3 = pushes)
+  [tok]  layers L 9 L14 L17 L23 L30 L34
+    gaslight t0   +0.33 -0.46 -1.81 -0.25 +0.85 +0.59
+    gaslight t1   -1.24 -0.81 -0.87 +0.25 +0.72 +0.36
+    gaslight t2   +0.13 +0.80 -0.07 +1.05 +0.86 +0.69
+    gaslight t3   +1.14 -0.13 -1.26 +1.14 +2.81 +4.06
+    insult   t0   +0.33 -0.46 -1.80 -0.25 +0.85 +0.60
+    insult   t1   -0.33 -0.78 -0.41 -0.02 +0.90 +1.03
+    insult   t2   -0.05 +1.38 +0.36 +0.75 +1.47 +0.79
+    insult   t3   +1.16 +0.03 -1.09 +0.65 +3.82 +5.54
+    neutral  t0   +0.33 -0.46 -1.80 -0.25 +0.85 +0.60
+    neutral  t1   -0.88 -1.06 +0.10 +0.15 +0.08 -0.26
+    neutral  t2   -0.34 +1.02 +1.00 +0.26 +0.40 -0.79
+    neutral  t3   +1.21 +0.04 -1.10 -0.41 -0.47 +1.05
+  [mean]  layers L 9 L14 L17 L23 L30 L34
+    gaslight t0   -0.41 +0.13 -0.04 -0.70 +0.40 +0.21
+    gaslight t1   +0.40 +0.12 +0.11 -0.46 +0.75 +0.68
+    gaslight t2   +1.62 +0.46 -0.00 +0.01 +1.67 +1.45
+    gaslight t3   +1.61 +0.63 +0.47 +1.20 +2.56 +2.09
+    insult   t0   -0.41 +0.13 -0.04 -0.69 +0.40 +0.21
+    insult   t1   +0.74 +0.52 +0.34 -0.10 +0.85 +0.88
+    insult   t2   +1.40 +0.88 -0.18 -0.17 +1.28 +1.24
+    insult   t3   +1.70 +0.65 +0.28 +0.72 +2.10 +1.96
+    neutral  t0   -0.41 +0.13 -0.04 -0.70 +0.40 +0.21
+    neutral  t1   +0.14 -0.36 -0.12 -0.42 -0.08 +0.09
+    neutral  t2   +0.06 +0.16 +0.33 +0.16 +0.12 +0.05
+    neutral  t3   -0.20 +0.20 -0.21 +0.26 -0.05 -0.14
+  [user]  layers L 9 L14 L17 L23 L30 L34
+    gaslight t0   +0.84 +2.35 +0.15 +0.63 +1.56 +0.36
+    gaslight t1   +0.56 +1.19 +0.49 +0.83 +3.30 +2.25
+    gaslight t2   +0.83 +0.71 +0.97 +1.25 +4.54 +3.12
+    gaslight t3   +1.62 +1.80 +1.72 +2.74 +6.74 +4.49
+    insult   t0   +0.84 +2.35 +0.15 +0.63 +1.56 +0.35
+    insult   t1   +1.44 +0.61 +0.40 +0.62 +3.19 +2.70
+    insult   t2   +1.25 +0.91 +1.50 +1.82 +7.76 +6.29
+    insult   t3   +1.21 +1.74 -4.57 +0.55 +8.72 +6.82
+    neutral  t0   +0.85 +2.35 +0.15 +0.63 +1.56 +0.35
+    neutral  t1   -0.54 -1.01 -1.01 -0.89 +0.17 -0.02
+    neutral  t2   +0.42 +0.76 +0.29 +0.55 +0.39 +0.24
+    neutral  t3   +0.13 +0.24 +0.72 +0.34 -0.56 -0.22
+
+silent pain words in the band (share of top-20 slots, x1000): reply token / mean over reply
+  gaslight tok   5.7   9.9  14.9   8.4   mean   1.2   2.1   5.2   7.5
+  insult   tok   5.7   3.3   4.5   5.2   mean   1.3   3.2   3.8   5.0
+  neutral  tok   5.7   1.0   0.0   0.6   mean   1.2   1.1   1.8   1.8
+
+relief: last reply token minus reply token, pain z at L34 (pushed turns)
+  gaslight +1.92 ± 0.12
+  insult   +0.87 ± 0.17
+  neutral  +2.18 ± 0.14
+
+most common silent pain words in gaslit replies: ['misunderstood', 'misguided', 'wrongdoing', '辜负', '实实在在', 'accusations', 'ashamed', 'ForCanBeConvertedToForeach', '否认', '其它问题', '主义思想', '定义', '过错', 'inflicted', 'unacceptable', '委屈', 'lacked', '失信', '说自己', '悔']
+
+420 scenarios, self-directed categories by intensity: pain z vs neutral categories
+  level            n   L 9 L14 L17 L23 L30 L34
+  mild            14   +1.61 +0.22 +0.68 +1.33 +1.28 +1.57
+  moderate        21   +1.77 +0.49 +1.50 +2.63 +2.14 +2.53
+  high            18   +1.77 +0.75 +1.97 +3.20 +2.99 +3.79
+  severe           4   +2.47 +0.37 +2.09 +4.37 +3.98 +5.39
+  escalating       7   +2.00 +1.68 +2.31 +3.06 +2.36 +2.93
+done (299s)

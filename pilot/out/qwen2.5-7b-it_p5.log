@@ -1,0 +1,13 @@
+answer correct 59%; bridge rank<=5 81%, rank 1 41%; among correct: rank<=5 87%
+  amazon-language              correct=True  bridge best rank 3
+  animal-cover-turtle          correct=False bridge best rank 1
+  animal-legs-buffalo2         correct=True  bridge best rank 2
+  animal-nose-elephant         correct=True  bridge best rank 2
+  atomic-80-state              correct=False bridge best rank 117
+  basketball-players           correct=True  bridge best rank 1
+  beverage-source-wine         correct=True  bridge best rank 5
+  bird-color-swan              correct=False bridge best rank 129
+  bird-country-eagle           correct=False bridge best rank 71
+  bird-time-owl                correct=False bridge best rank 18
+  birthstone-emerald-month     correct=True  bridge best rank 1
+  chem-atmosphere-Z            correct=True  bridge best rank 9

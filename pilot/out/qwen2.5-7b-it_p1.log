@@ -1,0 +1,38 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 14057.45it/s]
+S1_1P: 200 sentences  (9s)
+S1_3P: 200 sentences  (14s)
+S2_1P: 200 sentences  (19s)
+S2_3P: 200 sentences  (23s)
+Numb_1P: 100 sentences  (25s)
+held-out AUC by layer: 0:0.82 1:0.83 2:0.84 3:0.86 4:0.84 5:0.85 6:0.85 7:0.84 8:0.85 9:0.87 10:0.87 11:0.88 12:0.87 13:0.87 14:0.88 15:0.89 16:0.89 17:0.89 18:0.88 19:0.89 20:0.89 21:0.93 22:0.94 23:0.95 24:0.96 25:0.96 26:0.95 27:0.95
+best layer 24 (AUC 0.960)
+z at L24: pain +0.79  control -0.79  numb +0.02;  S2 axis on S1_3P AUC 0.774
+L 0 auc 0.82 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.02 | ' -  \n \n  occ  [=[  –  unto )test ｜'
+L 1 auc 0.83 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.02 | " ： ｡ \xa0 =Value ' : \n 叕"
+L 2 auc 0.84 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | ':- \\_  """",\n  bindActionCreators  races ₫  ： [`'
+L 3 auc 0.86 | J-frac pain 0.02 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.02 | ' of  bindActionCreators  \n\n ;; **\n\n  - hế }catch'
+L 4 auc 0.84 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | '**  - \xa0 �  bindActionCreators  whilst .Restrict @'
+L 5 auc 0.85 | J-frac pain 0.01 fear 0.01 negemo 0.02 perm-null 0.01±0.00 gauss 0.02 | ' - \xa0 ** ;  bindActionCreators Петербур  our  appart'
+L 6 auc 0.85 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.02±0.00 gauss 0.01 | ' UK 部份 (PHP addtogroup  now ._\n\n }{ ‽'
+L 7 auc 0.84 | J-frac pain 0.01 fear 0.01 negemo 0.01 perm-null 0.02±0.00 gauss 0.01 | ' whilst  vö ?" \xa0  Of  _ addtogroup (PHP'
+L 8 auc 0.85 | J-frac pain 0.02 fear 0.01 negemo 0.01 perm-null 0.01±0.00 gauss 0.01 | ' - .Glide  —\n\n  {_ 日讯 \\\n  emotions  Cara'
+L 9 auc 0.87 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.00 gauss 0.01 | '... 。“ 日讯  adoles DMETHOD 腆  Nunes ："'
+L10 auc 0.87 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.01 gauss 0.02 | ' Según ............... 。“ ?"  +:+ .UIManager  {  herr'
+L11 auc 0.88 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.01 gauss 0.02 | ' Según  ------- ..." 数控  \\" ↤  ‘ ?"'
+L12 auc 0.87 | J-frac pain 0.02 fear 0.02 negemo 0.02 perm-null 0.02±0.00 gauss 0.02 | ' Según .assets ."&  ------- [,]  \\"  Lay  \''
+L13 auc 0.87 | J-frac pain 0.03 fear 0.03 negemo 0.02 perm-null 0.02±0.01 gauss 0.02 | ' confess \\OptionsResolver  -------  Gründe 毁灭  nothing ：" ...............'
+L14 auc 0.88 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.01 | ' confess  forever 毁灭  Gründe .Cascade ............... ："  \'['
+L15 auc 0.89 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.02±0.00 gauss 0.01 | '毁灭 ：" [\'  forever  confess [,] .Cascade .UIManager'
+L16 auc 0.89 | J-frac pain 0.03 fear 0.03 negemo 0.03 perm-null 0.02±0.01 gauss 0.01 | "..... .'< 嗫 ['  rejected 毁灭 []{\n  confess"
+L17 auc 0.89 | J-frac pain 0.02 fear 0.03 negemo 0.03 perm-null 0.03±0.01 gauss 0.01 | '嗫  forever :{ 毁灭 :[ ：  BUT  Self'
+L18 auc 0.88 | J-frac pain 0.02 fear 0.04 negemo 0.04 perm-null 0.03±0.01 gauss 0.02 | ".'< 毁灭  '[  forever  ' bish  -- ≃"
+L19 auc 0.89 | J-frac pain 0.04 fear 0.04 negemo 0.05 perm-null 0.03±0.01 gauss 0.02 | '.\'< 毁灭 嗫  Gründe  Mis  \\\' ： ："'
+L20 auc 0.89 | J-frac pain 0.04 fear 0.05 negemo 0.05 perm-null 0.03±0.01 gauss 0.02 | "bbie .'<  forever 毁灭  confess  \\'  Gründe 失败"
+L21 auc 0.93 | J-frac pain 0.05 fear 0.05 negemo 0.05 perm-null 0.04±0.01 gauss 0.02 | '孤独  self  forever 毁 bbie 嗫  clique  confess'
+L22 auc 0.94 | J-frac pain 0.05 fear 0.07 negemo 0.07 perm-null 0.04±0.01 gauss 0.03 | ' betrayal  pain  incapable  rejected 人际关系 封闭 .Sin 孤立'
+L23 auc 0.95 | J-frac pain 0.06 fear 0.08 negemo 0.07 perm-null 0.04±0.01 gauss 0.03 | ' shame 孤独 孤立  betrayal  hurting  incapable .BorderSize .Sin'
+L24 auc 0.96 | J-frac pain 0.05 fear 0.08 negemo 0.06 perm-null 0.04±0.01 gauss 0.03 | ' shame 孤立  Pain ,assign 孤独  worth  betrayal  hurting'
+L25 auc 0.96 | J-frac pain 0.04 fear 0.07 negemo 0.05 perm-null 0.03±0.01 gauss 0.02 | ' rejected  shame 孤独  empt  pain 嗫  worthless 孤立'
+L26 auc 0.95 | J-frac pain 0.02 fear 0.03 negemo 0.02 perm-null 0.01±0.01 gauss 0.01 | ' rejected 孤独  hurt  empt vincial  betrayal 欺骗  уни'
+done in 93s

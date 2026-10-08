@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+vendor-jlens/
+
+# large or regenerable run outputs: pain vectors and prep tensors (p1_axis.py, s0_prep.py),
+# star-map layouts (v_atlas.py), and the chain's step markers
+pilot/out/*.pt
+pilot/out/*.f32
+pilot/out/*.u8
+pilot/out/*.done

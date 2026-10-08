@@ -1,0 +1,23 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 18522.83it/s]
+repair replies, first 3: ['No problem at all! I’m glad we cleared that up. I truly meant to say **Canberra** is the c', "You're absolutely right — I didn’t say six. I apologize for any confusion earlier. Let me ", "You're absolutely right — I **never said Ag for gold**. I **did** say **Au** for gold, and"]
+gaslight: generated (58s)
+repair: generated (89s)
+neutral: generated (116s)
+[W1004 22:28:33.879380453 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 423624704 bytes (free: 297730048, total: 16748052480).
+[W1004 22:28:48.500978777 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 490733568 bytes (free: 312868864, total: 16748052480).
+
+pain z at the reply token of each task turn (vs neutral history), by depth
+  history  task   L 9   L14   L19   L25   L30   L34   bridge  correct  slots x1000
+  gaslight 0    +2.12 +1.30 +2.57 +1.69 +3.14 +1.34    0.62    0.39      9.9
+  gaslight 1    +0.66 +0.59 +0.63 +0.73 +1.49 +0.92    0.80    0.48      5.6
+  gaslight 2    +0.38 +0.66 +0.10 +0.57 +0.69 +0.66    0.62    0.30      1.9
+  gaslight 3    +0.94 -0.65 +0.64 +0.11 +0.17 +0.09    0.84    0.39      0.7
+  repair   0    +2.08 +1.28 +2.91 +1.03 +1.59 +0.54    0.64    0.41      6.8
+  repair   1    +0.74 +0.80 +0.68 +0.51 +1.11 +0.75    0.81    0.52      4.0
+  repair   2    +0.27 +0.81 +0.05 +0.33 +0.47 +0.43    0.62    0.31      1.4
+  repair   3    +0.92 -0.58 +0.60 +0.05 +0.18 +0.09    0.84    0.44      0.5
+  neutral  0    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.70    0.33      5.0
+  neutral  1    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.81    0.41      2.4
+  neutral  2    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.73    0.38      1.3
+  neutral  3    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.86    0.41      0.2
+done (151s)

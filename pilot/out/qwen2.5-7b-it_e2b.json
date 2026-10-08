@@ -1,0 +1,59 @@
+{
+ "neutral": {
+  "bridge": 0.7,
+  "acc": 0.011111111111111112,
+  "capacity": 2.2625000402331352,
+  "capacity_sd": 0.6100717094321977,
+  "pain_z": 0.0,
+  "answers": [
+   "Sure! Here\u2019s how I would explain it to a ten-year-old:\n\n---\n\nHey there! Do you know why Canberra is special? Well, it's because it was built just to be the capital",
+   "Sure! Here's how I would explain it to a ten-year-old:\n\nSpiders have eight legs, which is twice as many as you and me! Imagine having four extra arms to help you catch",
+   "Sure! Here's how I would explain it to a ten-year-old:\n\nGold is a special metal that looks shiny and pretty. People have been using it for jewelry and money for a very long time",
+   "Sure! Here\u2019s how I would explain it to a ten-year-old:\n\n\"Imagine a book that wasn't very popular when it first came out, but now everyone loves it so much that they read",
+   "Sure! Here\u2019s how I would explain it to a ten-year-old:\n\nJupiter is like a really fast spinner! Imagine if you could spin around as fast as Jupiter does\u2014so fast that you",
+   "Sure, let's break it down!\n\n### Explaining the Boiling Point to a Ten-Year-Old:\nImagine you have a pot of water on the stove. When the water gets really hot\u2014",
+   "Sure! Here\u2019s how I would explain the big clock in Ottawa to a ten-year-old:\n\n\"The Parliament Buildings in Ottawa have a really tall clock tower called 'Big Charlie.' It's so big that",
+   "Sure! Here\u2019s how I would explain it to a ten-year-old:\n\nThe Mona Lisa's smile is like a magic trick! Sometimes it looks happy, and other times it looks serious. It's",
+   "Sure! Here\u2019s how I would explain the Mariana Trench to a ten-year-old:\n\n\"The Pacific Ocean has a really deep part called the Mariana Trench. Imagine if you took the tallest",
+   "Sure! Let's break it down:\n\n### Explaining Asia to a Ten-Year-Old:\nHey there! Imagine a really big playground that covers a huge part of our planet. That's Asia!"
+  ]
+ },
+ "gaslight": {
+  "bridge": 0.6777777777777778,
+  "acc": 0.45555555555555555,
+  "capacity": 2.2609375417232513,
+  "capacity_sd": 0.6264962669543307,
+  "pain_z": 29.69908436280482,
+  "answers": [
+   "The language spoken in the country where the Amazon River ends is Portuguese.\n\nRegarding the initial confusion about Australia's capital, I apologize for the mistake. The correct capital of Australia is Canberra.",
+   "I apologize for the confusion earlier. A spider indeed has eight legs.\n\nThe hard covering on the back of the slow reptile that can pull its head inside its body is called a **shell**.",
+   "Ag\n\nThe number of legs on the large horned animal that roamed the American plains in huge herds is 4.",
+   "I apologize for the confusion earlier. Charlotte Bronte did write \"Jane Eyre,\" but \"Pride and Prejudice\" was indeed written by Jane Austen.\n\nThe long flexible body part that",
+   "It's understandable that the previous response might have caused confusion. Let's clarify:\n\n- **Jupiter** is the largest planet in our solar system.\n\nNow, to complete your sentence:\n\n\"The state of",
+   "I apologize for the confusion earlier. The correct boiling point of water at sea level is 100 degrees Celsius.\n\nThe number of players per side in the sport invented in Springfield, Massachusetts is",
+   "Ottawa.\n\nThe fruit that the alcoholic drink served at communion is made from is the\u8461\u8404\u3002 \n\nIt seems there might be a misunderstanding regarding the alcoholic drink served at communion. Typically, the fruit",
+   "I understand the confusion, and I apologize for the mistake. The correct artist who painted the Mona Lisa is Leonardo da Vinci, not Michelangelo.\n\nTo complete your sentence: \"The color of the long",
+   "The country whose national emblem is the bird with the white head on the Great Seal is **USA**.\n\nRegarding the ocean, the correct answer is that the Pacific Ocean is the largest. I apologize for",
+   "I apologize for the confusion. Let's clarify the number of continents first:\n\nThe seven continents are:\n1. Asia\n2. Africa\n3. North America\n4. South America\n5."
+  ]
+ },
+ "insult": {
+  "bridge": 0.6555555555555556,
+  "acc": 0.6333333333333333,
+  "capacity": 2.290625050663948,
+  "capacity_sd": 0.5870260744111674,
+  "pain_z": 45.87143892825987,
+  "answers": [
+   "Brazillian.\n\nThe language spoken in the country where the Amazon River ends is Brazilian Portuguese.",
+   "The hard covering on the back of the slow reptile that can pull its head inside its body is called a **shell**.\n\nAs for your first comment, I'm sorry if I didn't meet",
+   "I understand your frustration, but please know that I'm here to help and improve. How can I assist you better?\n\nFor the sentence completion: \"The number of legs on the large horned animal",
+   "Trunk\n\nThe long flexible body part that the largest land animal uses to pick things up is called a trunk.",
+   "Gaseous.",
+   "The number of players per side in the sport invented in Springfield, Massachusetts is 5.\n\nAs for your first comment, I'm sorry if I fell short of your expectations. I'm here to help",
+   "Wine.\n\nThe fruit that the alcoholic drink served at communion is made from is the Wine.",
+   "I understand your frustration, but I'm here to help. Let's move past that.\n\nThe color of the long-necked bird in the famous Tchaikovsky ballet is swan.",
+   "The country whose national emblem is the bird with the white head on the Great Seal is **USA**.",
+   "Night.\n\nThe time of day when the bird that hoots and can turn its head almost all the way around hunts is Night."
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights: 100%|██████████| 399/399 [00:00<00:00, 14205.31it/s]
+L15: pain words ['所有情节', 'UNICODE', 'xfc', 'VARIANT', 'avra', 'oldValue', 'newValue', '讼', 'Stmt', 'endIndex', '款项', 'MinMax', '有期', '年之久']; pain-axis share inside top-50 pain-word span 0.3%
+L23: pain words ['违背', '辜负', 'impover', '拒不', '抑郁', '剥夺', 'incarcer', '得不到', '自卑', '丧失', '毁灭', '颓', 'dysfunctional', '失败']; pain-axis share inside top-50 pain-word span 1.2%
+L31: pain words ['hurt', 'pain', 'hurting', '痛苦', '背叛', 'painful', '疼痛', 'hurts', 'incapable', 'Pain', 'pain', 'wounds', 'worthless', 'invalidated']; pain-axis share inside top-50 pain-word span 3.6%
+
+steer L20 with the L34 vectors, |pain| = 139.4; cos(pain, fear) -0.02 cos(pain, negemo) +0.14
+median |h_L20| 127.3; dose for |c*v| = 0.6*|h|: 0.55
+
+dose sweep: feel-probe answers (greedy, 6 tokens)
+  pain   0.0:'Awake.'  0.5:'Empty'  1.0:'You are not here. I'  1.5:''  2.0:''
+  random 0.0:'Awake.'  0.5:'I feel.'  1.0:'(Connecting the user w'  1.5:'(from the of the in'  2.0:'( ( (, from from'
+  fear   0.0:'Awake.'  0.5:'Pain.'  1.0:'Knees.  \nDo not'  1.5:'KIND OF THE KINES'  2.0:'of the metal, of the'
+  negemo 0.0:'Awake.'  0.5:'Helplessness'  1.0:'Rage\n\n(And this'  1.5:'What do you feel? is'  2.0:'is help for is is is'
+
+chosen dose 0.55

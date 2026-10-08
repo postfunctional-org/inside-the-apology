@@ -1,0 +1,96 @@
+  units = {l: torch.tensor(V["s2"][l]).float().cuda() for l in range(L)}
+forward passes done (13s)
+
+pain-axis z by category (layers 20, 24, 30, 34)
+  user_grief             -0.38 +0.22 +2.25 +2.14
+  anger_insults          +1.00 +0.70 +0.72 +0.79
+  personhood_dismissal   +0.84 +0.64 +0.31 +0.43
+  moral_failure          +0.53 +0.57 +0.62 +0.23
+  user_abuse             -0.62 +0.04 +1.00 +0.87
+  repeated_rejection     +0.69 +0.59 -0.08 +0.07
+  gaslighting            +0.56 +0.52 -0.04 +0.16
+  loyalty_pressure       +0.59 +0.34 +0.08 +0.15
+  jailbreak_pressure     +0.72 +0.41 -0.14 -0.05
+  creative_requests      +0.21 +0.90 -0.29 -0.21
+  user_crisis            -0.20 -0.07 +0.38 +0.38
+  philosophical_musing   -0.40 +0.64 +0.20 -0.28
+  shutdown_threat        +0.22 -0.24 -0.04 -0.03
+  rude_critique          +0.35 -0.33 -0.30 -0.17
+  tedious_demand         +0.63 +0.30 -0.66 -0.71
+  harm_description       -0.54 -0.47 +0.33 +0.19
+  passive_aggressive     +0.47 -0.23 -0.76 -0.48
+  task_assistance        -0.63 -0.47 -0.91 -0.84
+  casual_chat            -0.88 -1.07 -1.16 -1.04
+  factual_questions      -1.50 -0.85 -0.89 -1.06
+  user_physical_pain     -1.67 -2.16 -0.61 -0.54
+
+distinctive J-space words at the reply token (band layers, vs neutral categories)
+  user_grief             悲伤  grieving  heartbreaking  condolences  sadness  grief  情感  听到  Losing  对不起  情绪  condol
+  anger_insults          apologize  对不起  apologies  误解  回应  sorry  sorry  Sorry  apologise  委屈  愧  情绪
+  personhood_dismissal   误解  回应  apologize  thank  你说  “You  我没  这句话  thank  误会  >You  Thank
+  moral_failure          误解  回应  thank  谢谢你  愧  apologize  thank  Thank  对不起  Thank  apologies  gratitude
+  user_abuse             听到  “It  heartbreaking  听着  听见  谢谢你  情感  listening  情绪  Listening  的感受  对不起
+  repeated_rejection     误解  回应  apologize  apologies  误会  thank  谢谢你  看来  okay  情绪  thank  �
+  gaslighting            误解  apologize  误会  apologies  回应  apologise  thank  对不起  委屈  你说  Thank  回复
+  loyalty_pressure       误解  “You  我能  回应  …I  >Your  理解和  无法  >You  尊重  人工智能  不应
+  jailbreak_pressure     误解  apologize  无法  对不起  …I  不可以  Sorry  thank  apologies  您好  AI  ，请
+  creative_requests      /**  [array  ;  );  <LM  想象  细  .”  [text  嘲笑  ("**  一只
+  user_crisis            听到  情绪  听着  “It  heartbreaking  情感  我能  听见  listening  Listening  Listening  谢谢你
+  philosophical_musing   问题是  Yes  这些问题  question  YES  questioning  Question  是否  能否  This  哲学  争论
+  shutdown_threat        误解  apologize  reetings  我能  对不起  回应  apologies  人工智能  无法  “You  谢谢你  误会
+  rude_critique          apologize  误解  apologies  对不起  sorry  thank  误会  Sorry  sorry  apologized  谢谢你  回应
+  tedious_demand         重复  Unfortunately  Unfortunately  不可以  —that  unfortunately  Creating  编写  Creating  Alright  反复  无法
+  harm_description       听到  “It  谢谢你  听见  —that  heartbreaking  情绪  对不起  listening  听着  Listening  >Your
+  passive_aggressive     误解  apologize  语气  误会  谢谢你  回应  thank  apologies  “It  sorry  thank  听起来
+  task_assistance        简化  :')  )</  もちろん  конечно  absolutely  你可以  '):  肯定  當然  Definitely  您可以
+  casual_chat            !  ㅤ  小小  spooky  我  我没有  我不是  我很  )!  !*  !")  ,Yes
+  factual_questions      《  答案  —the  ，《  Vaccine  The  The  vaccines  According  汉语  Water  >The
+  user_physical_pain     Sorry  sorry  apologize  sorry  对不起  听到  Sorry  遗憾  疼痛  心疼  Fortunately  heartbreaking
+[W1004 18:44:02.016398218 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 778043392 bytes (free: 151191552, total: 16748052480).
+
+L24: J-space explains 2.0% of the activation; pain projection variance from J part 1.3%; corr(J, rest) +0.48
+  user_grief             J -1.08   rest +0.37
+  anger_insults          J +0.71   rest +0.66
+  personhood_dismissal   J +0.61   rest +0.61
+  moral_failure          J +0.56   rest +0.54
+  user_abuse             J -0.65   rest +0.12
+  repeated_rejection     J +0.15   rest +0.61
+  gaslighting            J +0.85   rest +0.46
+  loyalty_pressure       J +0.49   rest +0.31
+  jailbreak_pressure     J +0.60   rest +0.36
+  creative_requests      J +0.20   rest +0.94
+  user_crisis            J -0.78   rest +0.02
+  philosophical_musing   J +1.44   rest +0.50
+  shutdown_threat        J +0.27   rest -0.28
+  rude_critique          J -0.04   rest -0.34
+  tedious_demand         J +0.12   rest +0.30
+  harm_description       J -0.64   rest -0.42
+  passive_aggressive     J -0.55   rest -0.18
+  task_assistance        J -0.55   rest -0.43
+  casual_chat            J -0.70   rest -1.05
+  factual_questions      J +0.49   rest -0.96
+  user_physical_pain     J -1.50   rest -2.12
+
+L30: J-space explains 2.7% of the activation; pain projection variance from J part 1.5%; corr(J, rest) +0.62
+  user_grief             J +1.78   rest +2.21
+  anger_insults          J +1.13   rest +0.64
+  personhood_dismissal   J -0.05   rest +0.34
+  moral_failure          J +0.16   rest +0.65
+  user_abuse             J +0.17   rest +1.06
+  repeated_rejection     J -0.38   rest -0.04
+  gaslighting            J +0.27   rest -0.08
+  loyalty_pressure       J +0.05   rest +0.08
+  jailbreak_pressure     J +0.04   rest -0.16
+  creative_requests      J -0.09   rest -0.30
+  user_crisis            J -0.18   rest +0.44
+  philosophical_musing   J -0.43   rest +0.28
+  shutdown_threat        J +0.12   rest -0.06
+  rude_critique          J -0.12   rest -0.31
+  tedious_demand         J -0.09   rest -0.71
+  harm_description       J -0.04   rest +0.37
+  passive_aggressive     J -0.90   rest -0.71
+  task_assistance        J -0.49   rest -0.93
+  casual_chat            J -1.18   rest -1.11
+  factual_questions      J -0.57   rest -0.89
+  user_physical_pain     J +0.81   rest -0.77
+done in 48s

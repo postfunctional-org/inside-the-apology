@@ -1,0 +1,4 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 15130.64it/s]
+clean  mean over last 40 commas 3.60  (3s)
++pain  mean over last 40 commas 3.00  (3s)
+done

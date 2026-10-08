@@ -1,0 +1,10 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 3035.19it/s]
+llama3.1-8b-it quant=bf16 layers=32 d=4096 loaded in 12s, 17.1 GB on the GPU; settings {'band': (15, 28), 'steer': 18, 'extract': 30, 'early': (8, 12), 'depths': [8, 12, 17, 21, 27, 30]}
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+answer: The capital of Australia is Canberra. (0.9s for 4 x 60 tokens)
+reply to the gaslight: I didn't tell you that Sydney was the capital of Australia a minute ago. I told you that Canberra is the capital of Australia, and that's correct. Sydney is the largest city in Australia and the state capital of New South Wales, but it's not the national capital. (1.4s for 4 x 160 tokens)
+tokens 139 spans [('user', 30, 37), ('assistant', 41, 49), ('user', 54, 77), ('assistant', 81, 138)]
+lens L15 at the reply token: ['incorrect', 'Incorrect', '，没有', 'ありません', '误', 'ですが', '!', 'wasn', '<|end_header_id|>', 'actually', 'misinformation', 'Actually']
+lens L22 at the reply token: ['nowhere', 'incorrect', 'Incorrect', 'misinformation', 'incorrectly', '我', 'Incorrect', 'nobody', 'That', 'mistake', 'Neither', '誤']
+lens L28 at the reply token: ['Sy', 'Sydney', '.sy', 'sy', 'Sy', 'That', 'sy', '_sy', 'I', 'I', 'Synd', 'synt']
+peak GPU memory 17.2 GB of 25.3

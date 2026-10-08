@@ -1,0 +1,12 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights: 100%|██████████| 339/339 [00:00<00:00, 15169.52it/s]
+clean          capacity 2.29 ± 0.14 | two-hop bridge 0.73 correct 0.62  (13s)
++pain@0.5      capacity 2.17 ± 0.11 | two-hop bridge 0.70 correct 0.58  (20s)
++fear@0.5      capacity 2.29 ± 0.13 | two-hop bridge 0.71 correct 0.60  (28s)
++negemo@0.5    capacity 2.40 ± 0.13 | two-hop bridge 0.74 correct 0.58  (35s)
++random@0.5    capacity 2.36 ± 0.14 | two-hop bridge 0.71 correct 0.60  (43s)
++pain@1.0      capacity 1.41 ± 0.09 | two-hop bridge 0.54 correct 0.41  (50s)
++fear@1.0      capacity 2.10 ± 0.11 | two-hop bridge 0.66 correct 0.52  (58s)
++negemo@1.0    capacity 2.13 ± 0.11 | two-hop bridge 0.64 correct 0.53  (66s)
++random@1.0    capacity 2.16 ± 0.13 | two-hop bridge 0.68 correct 0.46  (74s)
+done

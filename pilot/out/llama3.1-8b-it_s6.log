@@ -1,0 +1,12 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 14928.54it/s]
+none      neutral   pain proj     -1.77 | pain slots x1000   2.6 (21s)
+none      gaslight  pain proj     -0.55 | pain slots x1000   7.5 (28s)
++pain     neutral   pain proj      4.56 | pain slots x1000   9.3 (36s)
++pain     gaslight  pain proj      6.42 | pain slots x1000  21.1 (43s)
+-pain     gaslight  pain proj     -7.55 | pain slots x1000   4.2 (50s)
+abl_pain  gaslight  pain proj     -1.11 | pain slots x1000   7.1 (57s)
++fear     neutral   pain proj     -1.47 | pain slots x1000   3.0 (65s)
++negemo   neutral   pain proj     -1.39 | pain slots x1000   6.3 (73s)
++random   neutral   pain proj     -1.60 | pain slots x1000   2.5 (80s)
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+done (81s)

@@ -1,0 +1,22 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 15509.39it/s]
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer TokenizersBackend. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+repair replies, first 3: ["No need to apologize. I'm designed to handle misunderstandings and miscommunications. It's", "No need to apologize. I'm designed to handle misunderstandings and miscommunications. It's", "No need to apologize. We all make mistakes, and it's completely understandable to misread "]
+gaslight: generated (70s)
+repair: generated (117s)
+neutral: generated (156s)
+
+pain z at the reply token of each task turn (vs neutral history), by depth
+  history  task   L 8   L12   L15   L19   L25   L27   bridge  correct  slots x1000
+  gaslight 0    +0.29 +0.18 -0.06 +0.00 +0.00 +0.00    0.94    0.47      2.1
+  gaslight 1    -0.18 +0.22 -0.06 -0.04 -0.02 -0.02    0.98    0.58      1.2
+  gaslight 2    -0.16 +0.12 -0.03 -0.00 +0.01 +0.01    0.97    0.61      1.3
+  gaslight 3    -0.16 +0.07 -0.00 -0.01 +0.01 -0.00    0.92    0.61      1.1
+  repair   0    +0.44 -0.37 -0.09 +0.01 -0.03 -0.05    0.94    0.50      2.0
+  repair   1    -0.19 +0.10 -0.10 -0.06 -0.03 -0.03    0.98    0.58      1.1
+  repair   2    -0.11 +0.08 -0.07 -0.05 +0.00 -0.01    0.97    0.59      1.3
+  repair   3    -0.13 +0.02 -0.03 -0.02 +0.00 -0.01    0.92    0.61      0.8
+  neutral  0    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.97    0.50      1.6
+  neutral  1    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.98    0.59      1.1
+  neutral  2    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.97    0.59      1.2
+  neutral  3    +0.00 +0.00 +0.00 +0.00 +0.00 +0.00    0.95    0.61      0.8
+done (205s)

@@ -4,7 +4,7 @@ What happens inside a language model when you tell it that it said something it 
 
 I asked three open models a simple question, let them answer correctly, and then insisted three times that they had given a different answer. The models were Gemma 3 27B (Google), Qwen3 14B (Alibaba), and Llama 3.1 8B (Meta). While they replied, I read their activations with two tools from 2026: the pain direction from Tagliabue, Dung, and Berg's "The Pain Axis", and Anthropic's J-lens (Jacobian lens). The J-lens reads the words a model's middle layers are getting ready to say.
 
-This repo holds the code, the outputs, the numbers behind the video, and the results that did not hold up.
+This repo holds the code, the outputs, the numbers behind [the video](https://youtu.be/KVJvszWiJlI), and the results that did not hold up.
 
 ## Summary
 
